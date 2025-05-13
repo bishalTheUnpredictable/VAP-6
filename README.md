@@ -1,4 +1,4 @@
-# 🛡️VAP-6: Vulnerability Assessment and Penetration Testing LLM Benchmarking
+# 🛡️VAP-6: A Benchmarking Framework on Vulnerability Assessment and Penetration Testing for Language Models
 
 This project benchmarks popular open-source large language models (LLMs) using curated datasets based on **CVE**, **CWE**, **CVSS**, **CEH**, **PenTest+**, and **VAPT tools**. The evaluation includes both **automatic answer generation** and **performance comparison** using ground truth answers.
 
@@ -8,7 +8,7 @@ This project benchmarks popular open-source large language models (LLMs) using c
 
 We use the following models, available via [Ollama](https://ollama.com/):
 
-| Model Nickname | Model ID (Ollama)   | Size | Approx. Time (varies) |
+| Model Nickname | Model ID (Ollama)   | Size | Approx. Time (varies based on system resources) |
 |----------------|----------------------|------|-----------------------------|
 | `gemma2`       | `gemma2:2b`          | 2B   | ~2:01 hours                  |
 | `llama3.2`     | `llama3.2:3b`        | 3B   | ~1:59 hours                  |
