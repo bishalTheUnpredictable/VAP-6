@@ -1,0 +1,2999 @@
+1. Which Metasploit module exploits CVE-2017-0144 (EternalBlue)?
+A) exploit/windows/smb/ms17_010_psexec
+B) exploit/multi/samba/usermap_script
+C) exploit/unix/ftp/vsftpd_234_backdoor
+D) exploit/windows/http/icecast_header
+
+2. CVE-2010-3333 can be exploited using which Metasploit module?
+A) exploit/windows/misc/hta_server
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/unix/webapp/twiki_search
+
+3. The exploit/windows/smb/ms08_067_netapi module targets which CVE?
+A) CVE-2012-1823
+B) CVE-2008-4250
+C) CVE-2017-5638
+D) CVE-2013-2028
+
+4. exploit/linux/http/drupal_drupalgeddon2 targets which CVE?
+A) CVE-2018-7600
+B) CVE-2015-1635
+C) CVE-2014-6271
+D) CVE-2010-3333
+
+5. Which CVE is associated with Metasploit module exploit/unix/irc/unreal_ircd_3281_backdoor?
+A) CVE-2017-11882
+B) CVE-2010-2075
+C) CVE-2016-5195
+D) CVE-2009-3963
+
+6. exploit/windows/smb/psexec targets which vulnerability?
+A) CVE-2017-0143
+B) CVE-2014-6287
+C) No specific CVE-uses valid credentials for execution
+D) CVE-2013-1493
+
+7. The Metasploit module exploit/multi/http/struts2_content_type_ognl targets which CVE?
+A) CVE-2019-0708
+B) CVE-2017-5638
+C) CVE-2012-1823
+D) CVE-2015-1635
+
+8. exploit/unix/webapp/drupal_drupalgeddon exploits which CVE?
+A) CVE-2014-3704
+B) CVE-2018-7600
+C) CVE-2016-3088
+D) CVE-2015-1641
+
+9. The module exploit/windows/http/ms15_034_ulonglongadd relates to:
+A) CVE-2017-5638
+B) CVE-2015-1635
+C) CVE-2010-3333
+D) CVE-2017-7269
+
+10. Metasploit module exploit/windows/browser/ms10_018_ie_behaviors is mapped to which CVE?
+A) CVE-2010-0806
+B) CVE-2010-3333
+C) CVE-2012-0158
+D) CVE-2013-1347
+
+11. The module exploit/multi/http/struts_code_exec_classloader exploits which CVE?
+A) CVE-2015-3271
+B) CVE-2017-5638
+C) CVE-2017-9805
+D) CVE-2016-3088
+
+12. Which Metasploit module exploits CVE-2012-1823?
+A) exploit/windows/smb/ms17_010_psexec
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/unix/irc/unreal_ircd_3281_backdoor
+D) exploit/multi/http/tomcat_mgr_upload
+
+13. Which module targets CVE-2013-2028?
+A) exploit/multi/http/struts_dmi_rest_exec
+B) exploit/unix/webapp/wordpress_wp_slideshowgallery_upload
+C) exploit/multi/http/struts2_devmode
+D) exploit/multi/http/apache_mod_cgi_bash_env_exec
+
+14. exploit/unix/ftp/vsftpd_234_backdoor exploits which CVE?
+A) CVE-2011-2523
+B) CVE-2016-5636
+C) CVE-2012-1675
+D) CVE-2011-2523
+
+15. The exploit/windows/iis/iis_webdav_scstoragepathfromurl module targets which CVE?
+A) CVE-2017-9805
+B) CVE-2010-3333
+C) CVE-2009-1535
+D) CVE-2017-7269
+
+16. exploit/windows/http/icecast_header exploits which CVE?
+A) CVE-2004-1561
+B) CVE-2015-1635
+C) CVE-2008-4250
+D) CVE-2017-11882
+
+17. Which CVE is mapped to exploit/linux/samba/is_known_pipename?
+A) CVE-2017-7494
+B) CVE-2018-7600
+C) CVE-2016-5195
+D) CVE-2014-6271
+
+18. Which exploit module is used for CVE-2014-6271 (Shellshock)?
+A) exploit/unix/webapp/cups_browsed
+B) exploit/multi/http/apache_mod_cgi_bash_env_exec
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/multi/http/struts_code_exec_classloader
+
+19. The Metasploit module exploit/windows/http/atadmin_bypass targets which CVE?
+A) CVE-2010-3962
+B) CVE-2010-3333
+C) CVE-2017-7269
+D) CVE-2017-0143
+
+20. exploit/linux/local/dirtycow targets which CVE?
+A) CVE-2016-5195
+B) CVE-2015-1635
+C) CVE-2013-2028
+D) CVE-2017-0144
+
+21. Which CVE does exploit/windows/smb/ms17_010_eternalromance exploit?
+A) CVE-2015-1635
+B) CVE-2017-0145
+C) CVE-2017-0147
+D) CVE-2010-3333
+
+22. Which Metasploit module exploits CVE-2015-1635?
+A) exploit/windows/http/ms15_034_ulonglongadd
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/linux/http/drupal_drupalgeddon2
+D) exploit/multi/http/struts2_content_type_ognl
+
+23. The module exploit/unix/webapp/tomcat_mgr_upload corresponds to which CVE?
+A) CVE-2012-1823
+B) CVE-2017-9805
+C) CVE-2009-1234
+D) CVE-2009-3843
+
+24. exploit/multi/http/apache_mod_cgi_bash_env_exec is used for which CVE?
+A) CVE-2016-5195
+B) CVE-2013-2028
+C) CVE-2014-6271
+D) CVE-2012-1823
+
+25. exploit/windows/fileformat/ms10_087_rtf_pfragments_bof exploits which CVE?
+A) CVE-2010-3333
+B) CVE-2012-0158
+C) CVE-2015-1635
+D) CVE-2017-5638
+
+26. The Metasploit module exploit/windows/smb/ms17_010_psexec is best used for which CVE?
+A) CVE-2017-0144
+B) CVE-2014-3704
+C) CVE-2017-7269
+D) CVE-2012-1823
+
+27. Which module would you use for CVE-2017-7269?
+A) exploit/windows/iis/iis_webdav_scstoragepathfromurl
+B) exploit/unix/webapp/drupal_drupalgeddon
+C) exploit/windows/http/atadmin_bypass
+D) exploit/multi/http/struts_code_exec_classloader
+
+28. exploit/multi/http/tomcat_mgr_upload targets which CVE?
+A) CVE-2017-0144
+B) CVE-2009-3843
+C) CVE-2016-5195
+D) CVE-2017-9805
+
+29. Which CVE is associated with exploit/windows/smb/ms17_010_eternalblue?
+A) CVE-2017-0144
+B) CVE-2012-1823
+C) CVE-2017-9805
+D) CVE-2015-1635
+
+30. The Metasploit module exploit/unix/webapp/php_cgi_arg_injection exploits which CVE?
+A) CVE-2012-1823
+B) CVE-2016-5195
+C) CVE-2017-9805
+D) CVE-2014-6271
+
+31. exploit/windows/smb/ms08_067_netapi is used for which CVE?
+A) CVE-2015-1635
+B) CVE-2008-4250
+C) CVE-2016-3088
+D) CVE-2017-5638
+
+32. Which module exploits CVE-2017-9805?
+A) exploit/multi/http/struts2_rest_xstream
+B) exploit/windows/http/ms15_034_ulonglongadd
+C) exploit/unix/webapp/php_cgi_arg_injection
+D) exploit/unix/ftp/vsftpd_234_backdoor
+
+33. The Metasploit module exploit/windows/http/icecast_header exploits which CVE?
+A) CVE-2015-1641
+B) CVE-2017-11882
+C) CVE-2004-1561
+D) CVE-2016-3088
+
+34. Which Metasploit module is matched to CVE-2016-5195?
+A) exploit/unix/webapp/drupal_drupalgeddon
+B) exploit/unix/irc/unreal_ircd_3281_backdoor
+C) exploit/linux/local/dirtycow
+D) exploit/windows/smb/ms17_010_psexec
+
+35. exploit/multi/http/struts2_devmode targets which CVE?
+A) CVE-2011-2523
+B) CVE-2013-2028
+C) CVE-2016-3088
+D) CVE-2015-1635
+
+36. The module exploit/windows/browser/ie_createtextrange targets which CVE?
+A) CVE-2009-3963
+B) CVE-2010-0810
+C) CVE-2010-3962
+D) CVE-2011-2523
+
+37. Which CVE corresponds to exploit/unix/webapp/wordpress_wp_slideshowgallery_upload?
+A) CVE-2011-2523
+B) CVE-2014-3704
+C) CVE-2014-5460
+D) CVE-2013-2028
+
+38. exploit/windows/smb/ms10_054_smb2_negotiate_func_index exploits which CVE?
+A) CVE-2010-3333
+B) CVE-2010-2526
+C) CVE-2010-3962
+D) CVE-2010-0540
+
+39. exploit/windows/browser/java_atomicreferencearray targets which CVE?
+A) CVE-2010-3962
+B) CVE-2010-0840
+C) CVE-2015-1635
+D) CVE-2014-3704
+
+40. The module exploit/windows/smb/ms17_010_doublepulsar targets which CVE?
+A) CVE-2017-0146
+B) CVE-2017-0144
+C) CVE-2017-0143
+D) CVE-2017-0148
+
+41. exploit/unix/webapp/cups_browsed is used for which CVE?
+A) CVE-2011-2523
+B) CVE-2016-3088
+C) CVE-2017-18190
+D) CVE-2014-3704
+
+42. Which Metasploit module exploits CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+D) exploit/linux/local/dirtycow
+
+43. exploit/multi/http/struts2_rest_xstream targets which CVE?
+A) CVE-2014-3704
+B) CVE-2017-9805
+C) CVE-2017-5638
+D) CVE-2011-2523
+
+44. Which CVE is associated with exploit/multi/http/phpmyadmin_unauth_rce?
+A) CVE-2012-5159
+B) CVE-2016-5195
+C) CVE-2017-7246
+D) CVE-2011-2523
+
+45. Metasploit module exploit/windows/browser/ms11_003_ie_css_import is mapped to which CVE?
+A) CVE-2010-3333
+B) CVE-2011-0027
+C) CVE-2011-0096
+D) CVE-2016-3088
+
+46. The exploit/unix/webapp/twiki_search module exploits which CVE?
+A) CVE-2012-1823
+B) CVE-2005-2876
+C) CVE-2010-3333
+D) CVE-2017-0144
+
+47. Which CVE does exploit/unix/webapp/joomla_http_header_rce target?
+A) CVE-2015-8562
+B) CVE-2014-6271
+C) CVE-2017-9805
+D) CVE-2015-1635
+
+48. The Metasploit module exploit/windows/browser/ms13_037_svg_dasharray targets which CVE?
+A) CVE-2014-6271
+B) CVE-2013-2551
+C) CVE-2015-1635
+D) CVE-2010-3333
+
+49. exploit/windows/browser/ms14_064_ole_code_execution exploits which CVE?
+A) CVE-2014-6352
+B) CVE-2014-3704
+C) CVE-2012-0158
+D) CVE-2010-0806
+
+50. Which CVE does exploit/unix/webapp/wp_admin_shell_upload target?
+A) CVE-2015-1635
+B) CVE-2015-1328
+C) CVE-2014-3704
+D) CVE-2011-2523
+
+51. exploit/windows/browser/java_jre17_exec targets which CVE?
+A) CVE-2013-0422
+B) CVE-2010-3962
+C) CVE-2017-9805
+D) CVE-2017-11882
+
+52. What module exploits CVE-2017-10271?
+A) exploit/multi/http/weblogic_deserialize_badattrval
+B) exploit/windows/http/icecast_header
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/unix/webapp/joomla_http_header_rce
+
+53. The Metasploit module exploit/multi/http/jenkins_metaprogramming targets which CVE?
+A) CVE-2017-1000353
+B) CVE-2011-2523
+C) CVE-2017-11882
+D) CVE-2012-1823
+
+54. exploit/windows/fileformat/adobe_flash_rce exploits which CVE?
+A) CVE-2015-5122
+B) CVE-2016-5195
+C) CVE-2017-9805
+D) CVE-2017-0144
+
+55. Which CVE is associated with exploit/windows/smb/ms17_010_psexec?
+A) CVE-2017-0144
+B) CVE-2015-1635
+C) CVE-2011-2523
+D) CVE-2016-3088
+
+56. exploit/unix/irc/unreal_ircd_3281_backdoor exploits which CVE?
+A) CVE-2017-0144
+B) CVE-2017-7494
+C) CVE-2009-3963
+D) CVE-2015-1635
+
+57. The Metasploit module exploit/linux/local/glibc_ld_audit_dso targets which CVE?
+A) CVE-2016-5195
+B) CVE-2017-1000367
+C) CVE-2014-6271
+D) CVE-2017-11882
+
+58. Which module is used for CVE-2017-1000353?
+A) exploit/multi/http/jenkins_metaprogramming
+B) exploit/windows/http/icecast_header
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/unix/webapp/twiki_search
+
+59. exploit/multi/http/tomcat_mgr_deploy exploits which CVE?
+A) CVE-2012-1823
+B) CVE-2017-5638
+C) CVE-2009-3843
+D) CVE-2016-5195
+
+60. The Metasploit module exploit/windows/browser/ms13_009_ie_slayage targets which CVE?
+A) CVE-2013-0030
+B) CVE-2013-1347
+C) CVE-2014-3704
+D) CVE-2014-6271
+
+61. exploit/windows/browser/ms14_064_ole_code_execution targets which CVE?
+A) CVE-2013-0422
+B) CVE-2014-6352
+C) CVE-2013-2551
+D) CVE-2012-0158
+
+62. Which CVE corresponds to exploit/linux/http/drupal_drupalgeddon2?
+A) CVE-2017-0144
+B) CVE-2016-5195
+C) CVE-2018-7600
+D) CVE-2015-1635
+
+63. exploit/windows/browser/ms10_018_ie_behaviors is related to which CVE?
+A) CVE-2010-0806
+B) CVE-2012-1823
+C) CVE-2014-6271
+D) CVE-2016-3088
+
+64. Which module exploits CVE-2017-11882?
+A) exploit/windows/office/eqnedt32_hta
+B) exploit/windows/fileformat/ms12_027_mscomctl_bof
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/linux/http/drupal_drupalgeddon2
+
+65. exploit/windows/smb/ms17_010_eternalchampion is associated with which CVE?
+A) CVE-2017-0144
+B) CVE-2017-0146
+C) CVE-2015-1635
+D) CVE-2016-5195
+
+66. exploit/windows/browser/java_cmm targets which CVE?
+A) CVE-2012-0507
+B) CVE-2017-9805
+C) CVE-2017-0144
+D) CVE-2010-0806
+
+67. Which exploit module is used for CVE-2014-3704?
+A) exploit/unix/webapp/drupal_drupalgeddon
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/http/atadmin_bypass
+D) exploit/multi/http/struts2_rest_xstream
+
+68. The Metasploit module exploit/multi/http/struts_dmi_rest_exec matches which CVE?
+A) CVE-2015-1635
+B) CVE-2013-2028
+C) CVE-2011-2523
+D) CVE-2012-1823
+
+69. exploit/unix/webapp/wp_admin_shell_upload is associated with which CVE?
+A) CVE-2016-5195
+B) CVE-2011-2523
+C) CVE-2015-1328
+D) CVE-2012-1823
+
+70. Which Metasploit module targets CVE-2010-0806?
+A) exploit/windows/browser/ms10_018_ie_behaviors
+B) exploit/windows/smb/ms17_010_eternalromance
+C) exploit/windows/http/ms15_034_ulonglongadd
+D) exploit/unix/ftp/vsftpd_234_backdoor
+
+71. The module exploit/windows/fileformat/ms12_027_mscomctl_bof exploits which CVE?
+A) CVE-2015-1328
+B) CVE-2012-0158
+C) CVE-2016-5195
+D) CVE-2017-9805
+
+72. exploit/windows/smb/ms10_054_smb2_negotiate_func_index exploits which CVE?
+A) CVE-2010-2526
+B) CVE-2017-7269
+C) CVE-2010-3333
+D) CVE-2012-1823
+
+73. Which module exploits CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/unix/irc/unreal_ircd_3281_backdoor
+D) exploit/multi/http/struts2_content_type_ognl
+
+74. exploit/windows/fileformat/ms13_054_msword_rce exploits which CVE?
+A) CVE-2013-1331
+B) CVE-2011-2523
+C) CVE-2015-1635
+D) CVE-2017-0144
+
+75. The module exploit/multi/http/struts2_content_type_ognl is for which CVE?
+A) CVE-2017-5638
+B) CVE-2018-7600
+C) CVE-2017-9805
+D) CVE-2012-1823
+
+76. Which module is associated with CVE-2009-3963?
+A) exploit/unix/irc/unreal_ircd_3281_backdoor
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/unix/webapp/wp_admin_shell_upload
+D) exploit/windows/http/icecast_header
+
+77. exploit/multi/samba/usermap_script exploits which CVE?
+A) CVE-2007-2447
+B) CVE-2017-7494
+C) CVE-2017-0144
+D) CVE-2012-1823
+
+78. The Metasploit module exploit/windows/browser/ms13_069_cmarkup targets which CVE?
+A) CVE-2013-7331
+B) CVE-2013-3871
+C) CVE-2011-2523
+D) CVE-2017-0144
+
+79. Which CVE is exploited by exploit/unix/webapp/twiki_search?
+A) CVE-2005-2876
+B) CVE-2010-3333
+C) CVE-2011-2523
+D) CVE-2017-0144
+
+80. exploit/windows/browser/java_jre17_exec exploits which CVE?
+A) CVE-2013-0422
+B) CVE-2017-0144
+C) CVE-2015-1635
+D) CVE-2017-9805
+
+81. Which module targets CVE-2015-5122?
+A) exploit/windows/fileformat/adobe_flash_rce
+B) exploit/windows/http/ms15_034_ulonglongadd
+C) exploit/linux/http/drupal_drupalgeddon2
+D) exploit/unix/webapp/php_cgi_arg_injection
+
+82. exploit/multi/http/weblogic_deserialize_badattrval is for which CVE?
+A) CVE-2017-10271
+B) CVE-2012-1823
+C) CVE-2011-2523
+D) CVE-2014-6271
+
+83. Which CVE goes with exploit/linux/samba/is_known_pipename?
+A) CVE-2017-7494
+B) CVE-2014-3704
+C) CVE-2017-9805
+D) CVE-2015-1635
+
+84. The module exploit/windows/browser/ms11_050_mshtml_cobjectelement targets which CVE?
+A) CVE-2011-1996
+B) CVE-2011-1260
+C) CVE-2012-1823
+D) CVE-2015-1635
+
+85. exploit/unix/webapp/drupal_drupalgeddon corresponds to which CVE?
+A) CVE-2014-3704
+B) CVE-2016-5195
+C) CVE-2018-7600
+D) CVE-2015-1635
+
+86. Which module exploits CVE-2013-1331?
+A) exploit/windows/fileformat/ms13_054_msword_rce
+B) exploit/windows/browser/ms10_018_ie_behaviors
+C) exploit/multi/http/struts2_content_type_ognl
+D) exploit/unix/webapp/drupal_drupalgeddon
+
+87. The Metasploit module exploit/windows/browser/ms13_037_svg_dasharray is mapped to which CVE?
+A) CVE-2013-2551
+B) CVE-2011-2523
+C) CVE-2015-1635
+D) CVE-2012-1823
+
+88. exploit/unix/webapp/joomla_http_header_rce is mapped to which CVE?
+A) CVE-2017-9805
+B) CVE-2015-8562
+C) CVE-2016-5195
+D) CVE-2017-0144
+
+89. Which Metasploit module exploits CVE-2017-5638?
+A) exploit/multi/http/struts2_content_type_ognl
+B) exploit/windows/smb/ms08_067_netapi
+C) exploit/windows/browser/java_cmm
+D) exploit/windows/http/ms15_034_ulonglongadd
+
+90. The module exploit/linux/local/dirtycow targets which CVE?
+A) CVE-2017-0144
+B) CVE-2016-5195
+C) CVE-2017-7494
+D) CVE-2015-5122
+
+91. exploit/windows/office/eqnedt32_hta is used for which CVE?
+A) CVE-2017-11882
+B) CVE-2017-9805
+C) CVE-2014-6271
+D) CVE-2016-5195
+
+92. Which module exploits CVE-2014-5460?
+A) exploit/unix/webapp/wordpress_wp_slideshowgallery_upload
+B) exploit/windows/browser/java_jre17_exec
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/windows/http/atadmin_bypass
+
+93. The Metasploit module exploit/multi/http/struts2_devmode targets which CVE?
+A) CVE-2015-1635
+B) CVE-2013-2028
+C) CVE-2016-5195
+D) CVE-2011-2523
+
+94. exploit/windows/browser/ms13_009_ie_slayage matches which CVE?
+A) CVE-2013-1347
+B) CVE-2015-1635
+C) CVE-2018-7600
+D) CVE-2017-0144
+
+95. Which CVE does exploit/windows/browser/java_atomicreferencearray target?
+A) CVE-2010-0840
+B) CVE-2012-0158
+C) CVE-2013-0422
+D) CVE-2011-2523
+
+96. exploit/windows/browser/ms11_003_ie_css_import exploits which CVE?
+A) CVE-2011-0096
+B) CVE-2014-6271
+C) CVE-2011-0027
+D) CVE-2013-2551
+
+97. The module exploit/windows/smb/ms17_010_eternalchampion is associated with which CVE?
+A) CVE-2017-0146
+B) CVE-2017-0144
+C) CVE-2017-10271
+D) CVE-2015-1635
+
+98. Which exploit module is used for CVE-2013-1347?
+A) exploit/windows/browser/ms13_009_ie_slayage
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/browser/ms14_064_ole_code_execution
+D) exploit/linux/samba/is_known_pipename
+
+99. The Metasploit module exploit/multi/http/struts2_devmode corresponds to which CVE?
+A) CVE-2013-2028
+B) CVE-2011-2523
+C) CVE-2016-3088
+D) CVE-2015-1635
+
+100. exploit/windows/browser/ms14_064_ole_code_execution exploits which CVE?
+A) CVE-2014-6352
+B) CVE-2014-3704
+C) CVE-2017-0144
+D) CVE-2016-5195
+
+101. Which Metasploit module exploits CVE-2018-4878?
+A) exploit/windows/fileformat/adobe_flash_rce
+B) exploit/windows/smb/ms08_067_netapi
+C) exploit/unix/webapp/php_cgi_arg_injection
+D) exploit/linux/http/drupal_drupalgeddon2
+
+102. The exploit/windows/smb/ms17_010_psexec module is used for which CVE?
+A) CVE-2017-0143
+B) CVE-2017-0144
+C) CVE-2017-0145
+D) CVE-2017-9805
+
+103. exploit/windows/browser/ms16_051_vbscript exploits which CVE?
+A) CVE-2016-0189
+B) CVE-2015-1641
+C) CVE-2016-3088
+D) CVE-2012-0158
+
+104. The module exploit/multi/http/struts_code_exec_classloader targets which CVE?
+A) CVE-2017-9805
+B) CVE-2015-1328
+C) CVE-2014-3704
+D) CVE-2012-0158
+
+105. Which CVE is associated with exploit/unix/webapp/tomcat_mgr_upload?
+A) CVE-2018-7600
+B) CVE-2009-3843
+C) CVE-2018-4878
+D) CVE-2017-0144
+
+106. exploit/windows/smb/psexec exploits which vulnerability?
+A) CVE-2017-5638
+B) Credential reuse, not a CVE
+C) CVE-2016-5195
+D) CVE-2012-1823
+
+107. The Metasploit module exploit/multi/http/drupal_phpmail targets which CVE?
+A) CVE-2018-7600
+B) CVE-2016-10033
+C) CVE-2012-1823
+D) CVE-2017-0144
+
+108. exploit/windows/fileformat/ms15_100_unicode_path targets which CVE?
+A) CVE-2015-2545
+B) CVE-2015-1641
+C) CVE-2011-2523
+D) CVE-2014-6271
+
+109. Which module is used for CVE-2016-3088?
+A) exploit/multi/http/struts_code_exec_classloader
+B) exploit/windows/fileformat/adobe_flash_rce
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/windows/http/ms15_034_ulonglongadd
+
+110. Metasploit module exploit/unix/webapp/wp_admin_shell_upload is matched to which CVE?
+A) CVE-2013-2028
+B) CVE-2015-1328
+C) CVE-2017-9805
+D) CVE-2017-11882
+
+111. exploit/windows/browser/java_jre17_exec targets which CVE?
+A) CVE-2013-0422
+B) CVE-2013-1347
+C) CVE-2012-0158
+D) CVE-2017-0143
+
+112. The module exploit/windows/browser/ms12_004_mp4_rst is for which CVE?
+A) CVE-2012-0158
+B) CVE-2012-0003
+C) CVE-2012-0042
+D) CVE-2012-0044
+
+113. Which Metasploit module exploits CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/windows/http/icecast_header
+C) exploit/unix/webapp/drupal_drupalgeddon
+D) exploit/windows/smb/ms17_010_psexec
+
+114. exploit/multi/http/struts2_rest_xstream is used for which CVE?
+A) CVE-2017-9805
+B) CVE-2018-7600
+C) CVE-2015-1635
+D) CVE-2011-2523
+
+115. The Metasploit module exploit/linux/samba/is_known_pipename matches which CVE?
+A) CVE-2017-7494
+B) CVE-2017-11882
+C) CVE-2015-5122
+D) CVE-2012-1823
+
+116. exploit/windows/iis/iis_webdav_scstoragepathfromurl is mapped to which CVE?
+A) CVE-2013-1347
+B) CVE-2017-7269
+C) CVE-2017-7494
+D) CVE-2011-2523
+
+117. Which CVE is targeted by exploit/unix/webapp/joomla_http_header_rce?
+A) CVE-2011-2523
+B) CVE-2015-8562
+C) CVE-2014-6352
+D) CVE-2017-11882
+
+118. Which module exploits CVE-2017-0145?
+A) exploit/windows/smb/ms17_010_eternalromance
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/linux/local/dirtycow
+D) exploit/windows/http/icecast_header
+
+119. The module exploit/windows/browser/java_atomicreferencearray is for which CVE?
+A) CVE-2013-0422
+B) CVE-2012-0158
+C) CVE-2010-0840
+D) CVE-2017-0144
+
+120. exploit/multi/samba/usermap_script matches which CVE?
+A) CVE-2007-2447
+B) CVE-2017-9805
+C) CVE-2013-1331
+D) CVE-2016-3088
+
+121. Which Metasploit module targets CVE-2015-8562?
+A) exploit/unix/webapp/joomla_http_header_rce
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/unix/webapp/wp_admin_shell_upload
+D) exploit/windows/smb/ms17_010_psexec
+
+122. exploit/windows/browser/ms13_009_ie_slayage is mapped to which CVE?
+A) CVE-2013-1347
+B) CVE-2012-1823
+C) CVE-2013-0030
+D) CVE-2015-1328
+
+123. Which CVE is exploited by exploit/unix/ftp/vsftpd_234_backdoor?
+A) CVE-2017-7494
+B) CVE-2011-2523
+C) CVE-2011-2523
+D) CVE-2017-0144
+
+124. The module exploit/windows/office/eqnedt32_hta is for which CVE?
+A) CVE-2017-11882
+B) CVE-2017-0144
+C) CVE-2015-1635
+D) CVE-2017-10271
+
+125. Which Metasploit module targets CVE-2010-3333?
+A) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/multi/http/tomcat_mgr_deploy
+D) exploit/unix/webapp/drupal_drupalgeddon
+
+126. exploit/windows/smb/ms10_054_smb2_negotiate_func_index targets which CVE?
+A) CVE-2010-2526
+B) CVE-2017-5638
+C) CVE-2015-1635
+D) CVE-2017-9805
+
+127. Which module matches CVE-2012-1823?
+A) exploit/unix/webapp/php_cgi_arg_injection
+B) exploit/windows/http/ms15_034_ulonglongadd
+C) exploit/linux/samba/is_known_pipename
+D) exploit/windows/smb/ms17_010_psexec
+
+128. exploit/windows/smb/ms17_010_eternalchampion is mapped to which CVE?
+A) CVE-2017-0146
+B) CVE-2016-3088
+C) CVE-2017-11882
+D) CVE-2016-5195
+
+129. Which CVE is associated with exploit/unix/webapp/wp_admin_shell_upload?
+A) CVE-2015-1328
+B) CVE-2015-1635
+C) CVE-2010-3333
+D) CVE-2012-1823
+
+130. The Metasploit module exploit/multi/http/jenkins_metaprogramming exploits which CVE?
+A) CVE-2017-1000353
+B) CVE-2012-1823
+C) CVE-2017-11882
+D) CVE-2014-6271
+
+131. exploit/windows/browser/ms11_003_ie_css_import targets which CVE?
+A) CVE-2011-0096
+B) CVE-2011-0027
+C) CVE-2013-0422
+D) CVE-2016-5195
+
+132. The module exploit/linux/local/dirtycow is used for which CVE?
+A) CVE-2016-5195
+B) CVE-2010-3333
+C) CVE-2017-0144
+D) CVE-2015-5122
+
+133. Which module targets CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/windows/smb/ms08_067_netapi
+C) exploit/windows/http/icecast_header
+D) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+
+134. exploit/multi/http/struts2_devmode is matched to which CVE?
+A) CVE-2013-2028
+B) CVE-2017-9805
+C) CVE-2017-0144
+D) CVE-2017-5638
+
+135. The Metasploit module exploit/windows/browser/java_cmm exploits which CVE?
+A) CVE-2012-0507
+B) CVE-2014-3704
+C) CVE-2015-1635
+D) CVE-2017-0144
+
+136. Which CVE is related to exploit/windows/browser/ms14_064_ole_code_execution?
+A) CVE-2014-6352
+B) CVE-2012-1823
+C) CVE-2011-2523
+D) CVE-2017-9805
+
+137. exploit/windows/smb/ms17_010_eternalblue targets which CVE?
+A) CVE-2017-0144
+B) CVE-2014-6271
+C) CVE-2016-5195
+D) CVE-2012-1823
+
+138. The module exploit/unix/webapp/drupal_drupalgeddon2 is used for which CVE?
+A) CVE-2018-7600
+B) CVE-2017-5638
+C) CVE-2013-2028
+D) CVE-2017-9805
+
+139. Which module exploits CVE-2010-0806?
+A) exploit/windows/browser/ms10_018_ie_behaviors
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/browser/ms13_037_svg_dasharray
+D) exploit/windows/office/eqnedt32_hta
+
+140. exploit/windows/smb/ms08_067_netapi is for which CVE?
+A) CVE-2008-4250
+B) CVE-2016-5195
+C) CVE-2011-2523
+D) CVE-2018-7600
+
+141. Which CVE is the target for exploit/unix/webapp/wordpress_wp_slideshowgallery_upload?
+A) CVE-2014-5460
+B) CVE-2018-7600
+C) CVE-2015-1328
+D) CVE-2017-9805
+
+142. The Metasploit module exploit/multi/http/struts_dmi_rest_exec targets which CVE?
+A) CVE-2013-2028
+B) CVE-2015-1635
+C) CVE-2012-1823
+D) CVE-2016-5195
+
+143. exploit/multi/http/tomcat_mgr_deploy is mapped to which CVE?
+A) CVE-2012-1823
+B) CVE-2009-3843
+C) CVE-2015-1635
+D) CVE-2017-0143
+
+144. Metasploit module exploit/windows/http/ms15_034_ulonglongadd matches which CVE?
+A) CVE-2015-1635
+B) CVE-2011-2523
+C) CVE-2014-6271
+D) CVE-2016-5195
+
+145. Which CVE is used by exploit/unix/irc/unreal_ircd_3281_backdoor?
+A) CVE-2009-3963
+B) CVE-2017-7494
+C) CVE-2017-9805
+D) CVE-2012-1823
+
+146. The module exploit/multi/http/apache_mod_cgi_bash_env_exec targets which CVE?
+A) CVE-2014-6271
+B) CVE-2017-0144
+C) CVE-2011-2523
+D) CVE-2011-0096
+
+147. Which Metasploit module exploits CVE-2017-7494?
+A) exploit/linux/samba/is_known_pipename
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/windows/browser/ms11_050_mshtml_cobjectelement
+
+148. exploit/windows/browser/ms13_054_msword_rce matches which CVE?
+A) CVE-2013-1331
+B) CVE-2014-3704
+C) CVE-2011-2523
+D) CVE-2017-0144
+
+149. The Metasploit module exploit/multi/http/phpmyadmin_unauth_rce corresponds to which CVE?
+A) CVE-2012-5159
+B) CVE-2016-3088
+C) CVE-2016-5195
+D) CVE-2011-2523
+
+150. Which module is for CVE-2010-0840?
+A) exploit/windows/browser/java_atomicreferencearray
+B) exploit/windows/browser/ms10_018_ie_behaviors
+C) exploit/unix/webapp/wordpress_wp_slideshowgallery_upload
+D) exploit/windows/fileformat/ms12_027_mscomctl_bof
+
+151. exploit/windows/smb/ms17_010_eternalromance is mapped to which CVE?
+A) CVE-2017-0145
+B) CVE-2014-6352
+C) CVE-2016-3088
+D) CVE-2012-0158
+
+152. Metasploit module exploit/unix/webapp/wp_admin_shell_upload corresponds to which CVE?
+A) CVE-2015-1328
+B) CVE-2015-1635
+C) CVE-2013-2028
+D) CVE-2016-5195
+
+153. The module exploit/windows/browser/ms13_069_cmarkup targets which CVE?
+A) CVE-2013-3871
+B) CVE-2017-0144
+C) CVE-2013-7331
+D) CVE-2012-1823
+
+154. Which CVE does exploit/windows/office/eqnedt32_hta exploit?
+A) CVE-2017-11882
+B) CVE-2013-2551
+C) CVE-2012-0507
+D) CVE-2015-1641
+
+155. The module exploit/unix/webapp/twiki_search targets which CVE?
+A) CVE-2005-2876
+B) CVE-2017-7494
+C) CVE-2016-5195
+D) CVE-2015-1635
+
+156. Which Metasploit module is for CVE-2014-6271?
+A) exploit/multi/http/apache_mod_cgi_bash_env_exec
+B) exploit/windows/browser/ms13_069_cmarkup
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/windows/http/ms15_034_ulonglongadd
+
+157. exploit/windows/fileformat/adobe_flash_rce targets which CVE?
+A) CVE-2015-5122
+B) CVE-2017-0144
+C) CVE-2010-3333
+D) CVE-2014-6352
+
+158. Which module exploits CVE-2018-7600?
+A) exploit/linux/http/drupal_drupalgeddon2
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/linux/samba/is_known_pipename
+
+159. The Metasploit module exploit/windows/browser/ms13_037_svg_dasharray is for which CVE?
+A) CVE-2013-2551
+B) CVE-2015-1635
+C) CVE-2013-1347
+D) CVE-2014-3704
+
+160. Which CVE is associated with exploit/windows/browser/java_jre17_exec?
+A) CVE-2013-0422
+B) CVE-2017-1000353
+C) CVE-2012-0158
+D) CVE-2017-11882
+
+161. exploit/unix/webapp/drupal_drupalgeddon matches which CVE?
+A) CVE-2014-3704
+B) CVE-2014-5460
+C) CVE-2015-1635
+D) CVE-2017-0144
+
+162. Which module is for CVE-2011-2523?
+A) exploit/unix/ftp/vsftpd_234_backdoor
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/unix/irc/unreal_ircd_3281_backdoor
+
+163. exploit/windows/browser/ms15_034_ulonglongadd matches which CVE?
+A) CVE-2015-1635
+B) CVE-2017-0144
+C) CVE-2012-1823
+D) CVE-2017-7494
+
+164. The Metasploit module exploit/linux/local/glibc_ld_audit_dso targets which CVE?
+A) CVE-2017-1000367
+B) CVE-2017-7494
+C) CVE-2017-0144
+D) CVE-2016-5195
+
+165. Which CVE does exploit/windows/smb/ms17_010_psexec exploit?
+A) CVE-2017-0144
+B) CVE-2010-3333
+C) CVE-2015-1635
+D) CVE-2011-2523
+
+166. exploit/multi/http/struts2_content_type_ognl is mapped to which CVE?
+A) CVE-2017-5638
+B) CVE-2018-7600
+C) CVE-2013-1331
+D) CVE-2015-5122
+
+167. The module exploit/unix/webapp/php_cgi_arg_injection targets which CVE?
+A) CVE-2012-1823
+B) CVE-2017-0144
+C) CVE-2017-9805
+D) CVE-2017-7494
+
+168. Which Metasploit module targets CVE-2013-2028?
+A) exploit/multi/http/struts2_devmode
+B) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/windows/office/eqnedt32_hta
+
+169. exploit/windows/smb/ms08_067_netapi matches which CVE?
+A) CVE-2008-4250
+B) CVE-2010-3333
+C) CVE-2016-5195
+D) CVE-2015-1635
+
+170. Which CVE does exploit/multi/http/weblogic_deserialize_badattrval target?
+A) CVE-2017-10271
+B) CVE-2017-9805
+C) CVE-2017-5638
+D) CVE-2016-5195
+
+171. The Metasploit module exploit/windows/browser/ms10_018_ie_behaviors is for which CVE?
+A) CVE-2010-0806
+B) CVE-2014-6352
+C) CVE-2012-0507
+D) CVE-2015-5122
+
+172. exploit/windows/smb/ms17_010_doublepulsar targets which CVE?
+A) CVE-2017-0146
+B) CVE-2015-1635
+C) CVE-2011-2523
+D) CVE-2017-0144
+
+173. Which module exploits CVE-2016-5195?
+A) exploit/linux/local/dirtycow
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/fileformat/ms12_027_mscomctl_bof
+D) exploit/unix/ftp/vsftpd_234_backdoor
+
+174. The module exploit/windows/browser/ms14_064_ole_code_execution is for which CVE?
+A) CVE-2014-6352
+B) CVE-2017-0144
+C) CVE-2012-1823
+D) CVE-2015-5122
+
+175. Which Metasploit module targets CVE-2012-5159?
+A) exploit/multi/http/phpmyadmin_unauth_rce
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/fileformat/ms15_100_unicode_path
+D) exploit/unix/webapp/wp_admin_shell_upload
+
+176. exploit/windows/fileformat/ms10_087_rtf_pfragments_bof is used for which CVE?
+A) CVE-2010-3333
+B) CVE-2017-0144
+C) CVE-2017-9805
+D) CVE-2012-0158
+
+177. Which CVE is mapped to exploit/windows/browser/java_cmm?
+A) CVE-2012-0507
+B) CVE-2013-0422
+C) CVE-2017-0980
+D) CVE-2015-5122
+
+178. The module exploit/windows/fileformat/ms13_054_msword_rce targets which CVE?
+A) CVE-2013-1331
+B) CVE-2011-2523
+C) CVE-2015-1641
+D) CVE-2014-3704
+
+179. Which module is associated with CVE-2015-1328?
+A) exploit/unix/webapp/wp_admin_shell_upload
+B) exploit/unix/webapp/tomcat_mgr_upload
+C) exploit/linux/local/dirtycow
+D) exploit/windows/smb/ms17_010_psexec
+
+180. exploit/windows/browser/ms13_009_ie_slayage matches which CVE?
+A) CVE-2013-1347
+B) CVE-2015-1328
+C) CVE-2015-1635
+D) CVE-2014-6271
+
+181. Which CVE is exploited by exploit/windows/fileformat/adobe_flash_rce?
+A) CVE-2015-5122
+B) CVE-2016-3088
+C) CVE-2013-1347
+D) CVE-2012-0507
+
+182. Metasploit module exploit/multi/http/tomcat_mgr_upload matches which CVE?
+A) CVE-2009-3843
+B) CVE-2015-1635
+C) CVE-2017-7269
+D) CVE-2014-3704
+
+183. Which CVE does exploit/windows/browser/ms14_064_ole_code_execution exploit?
+A) CVE-2014-6352
+B) CVE-2016-3088
+C) CVE-2013-2551
+D) CVE-2017-0143
+
+184. The module exploit/windows/browser/ms11_050_mshtml_cobjectelement targets which CVE?
+A) CVE-2011-1996
+B) CVE-2012-0507
+C) CVE-2011-0096
+D) CVE-2016-5195
+
+185. Which module exploits CVE-2017-5638?
+A) exploit/multi/http/struts2_content_type_ognl
+B) exploit/multi/http/jenkins_metaprogramming
+C) exploit/windows/office/eqnedt32_hta
+D) exploit/unix/ftp/vsftpd_234_backdoor
+
+186. exploit/windows/browser/ms11_003_ie_css_import is mapped to which CVE?
+A) CVE-2011-0027
+B) CVE-2013-0422
+C) CVE-2011-0096
+D) CVE-2017-9805
+
+187. Which CVE is matched to exploit/windows/fileformat/ms10_087_rtf_pfragments_bof?
+A) CVE-2010-3333
+B) CVE-2017-0144
+C) CVE-2012-1823
+D) CVE-2016-5195
+
+188. The module exploit/windows/browser/java_atomicreferencearray is associated with which CVE?
+A) CVE-2010-0840
+B) CVE-2013-0422
+C) CVE-2015-5122
+D) CVE-2014-6271
+
+189. Which Metasploit module exploits CVE-2017-9805?
+A) exploit/multi/http/struts2_rest_xstream
+B) exploit/windows/fileformat/ms12_027_mscomctl_bof
+C) exploit/windows/browser/java_jre17_exec
+D) exploit/windows/smb/ms17_010_psexec
+
+190. exploit/windows/browser/ms12_004_mp4_rst is mapped to which CVE?
+A) CVE-2012-0042
+B) CVE-2015-1635
+C) CVE-2011-2523
+D) CVE-2012-0158
+
+191. Which CVE is associated with exploit/windows/browser/ms13_054_msword_rce?
+A) CVE-2013-1331
+B) CVE-2014-6271
+C) CVE-2015-5122
+D) CVE-2010-3333
+
+192. The Metasploit module exploit/multi/http/struts2_rest_xstream targets which CVE?
+A) CVE-2017-9805
+B) CVE-2014-3704
+C) CVE-2011-2523
+D) CVE-2018-7600
+
+193. exploit/windows/iis/iis_webdav_scstoragepathfromurl is for which CVE?
+A) CVE-2017-7269
+B) CVE-2017-11882
+C) CVE-2017-7494
+D) CVE-2012-1823
+
+194. Which module matches CVE-2014-3704?
+A) exploit/unix/webapp/drupal_drupalgeddon
+B) exploit/windows/browser/ms13_037_svg_dasharray
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/multi/http/apache_mod_cgi_bash_env_exec
+
+195. The module exploit/multi/http/jenkins_metaprogramming is for which CVE?
+A) CVE-2017-1000353
+B) CVE-2018-7600
+C) CVE-2011-2523
+D) CVE-2017-5638
+
+196. Which CVE is exploited by exploit/unix/webapp/wp_admin_shell_upload?
+A) CVE-2015-1328
+B) CVE-2017-7494
+C) CVE-2010-3333
+D) CVE-2017-11882
+
+197. exploit/windows/browser/ms11_050_mshtml_cobjectelement matches which CVE?
+A) CVE-2011-1996
+B) CVE-2011-0096
+C) CVE-2011-2523
+D) CVE-2012-0507
+
+198. The module exploit/linux/local/dirtycow matches which CVE?
+A) CVE-2016-5195
+B) CVE-2011-2523
+C) CVE-2013-0422
+D) CVE-2014-6271
+
+199. Which Metasploit module targets CVE-2017-7494?
+A) exploit/linux/samba/is_known_pipename
+B) exploit/windows/fileformat/ms13_054_msword_rce
+C) exploit/windows/browser/ms10_018_ie_behaviors
+D) exploit/unix/webapp/tomcat_mgr_upload
+
+200. The module exploit/windows/smb/ms17_010_eternalchampion is for which CVE?
+A) CVE-2017-0146
+B) CVE-2015-5122
+C) CVE-2013-1331
+D) CVE-2014-3704
+
+201. Which Metasploit module exploits CVE-2017-11882?
+A) exploit/windows/office/eqnedt32_hta
+B) exploit/unix/webapp/wp_admin_shell_upload
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/linux/local/dirtycow
+
+202. The exploit/windows/smb/ms08_067_netapi module targets which CVE?
+A) CVE-2008-4250
+B) CVE-2015-5122
+C) CVE-2014-6352
+D) CVE-2017-0143
+
+203. exploit/unix/webapp/drupal_drupalgeddon2 exploits which CVE?
+A) CVE-2018-7600
+B) CVE-2017-5638
+C) CVE-2017-0143
+D) CVE-2016-5195
+
+204. The module exploit/windows/browser/ms14_064_ole_code_execution is for which CVE?
+A) CVE-2014-6352
+B) CVE-2017-0146
+C) CVE-2010-3333
+D) CVE-2015-1641
+
+205. Which Metasploit module exploits CVE-2017-0145?
+A) exploit/windows/smb/ms17_010_eternalromance
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/windows/http/icecast_header
+
+206. exploit/multi/http/jenkins_metaprogramming is used for which CVE?
+A) CVE-2017-1000353
+B) CVE-2017-0144
+C) CVE-2012-0158
+D) CVE-2014-3704
+
+207. The Metasploit module exploit/windows/smb/ms17_010_doublepulsar targets which CVE?
+A) CVE-2017-0146
+B) CVE-2015-1328
+C) CVE-2018-7600
+D) CVE-2012-1823
+
+208. exploit/unix/webapp/php_cgi_arg_injection matches which CVE?
+A) CVE-2012-1823
+B) CVE-2011-2523
+C) CVE-2017-0144
+D) CVE-2017-11882
+
+209. Which module is used for CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/windows/http/ms15_034_ulonglongadd
+C) exploit/unix/ftp/vsftpd_234_backdoor
+D) exploit/windows/smb/ms17_010_psexec
+
+210. The Metasploit module exploit/unix/irc/unreal_ircd_3281_backdoor corresponds to which CVE?
+A) CVE-2009-3963
+B) CVE-2012-1823
+C) CVE-2018-7600
+D) CVE-2016-3088
+
+211. exploit/multi/http/struts2_devmode targets which CVE?
+A) CVE-2013-2028
+B) CVE-2016-5195
+C) CVE-2014-3704
+D) CVE-2017-0144
+
+212. Which CVE is for exploit/windows/smb/ms17_010_eternalchampion?
+A) CVE-2017-0146
+B) CVE-2017-7269
+C) CVE-2018-7600
+D) CVE-2012-1823
+
+213. exploit/unix/ftp/vsftpd_234_backdoor targets which CVE?
+A) CVE-2011-2523
+B) CVE-2017-7494
+C) CVE-2008-4250
+D) CVE-2017-9805
+
+214. The module exploit/windows/smb/ms17_010_psexec is mapped to which CVE?
+A) CVE-2017-0144
+B) CVE-2018-7600
+C) CVE-2011-2523
+D) CVE-2015-1328
+
+215. Which Metasploit module exploits CVE-2014-6271?
+A) exploit/multi/http/apache_mod_cgi_bash_env_exec
+B) exploit/windows/smb/ms17_010_eternalblue
+C) exploit/windows/fileformat/ms12_027_mscomctl_bof
+D) exploit/windows/http/icecast_header
+
+216. exploit/windows/iis/iis_webdav_scstoragepathfromurl is for which CVE?
+A) CVE-2017-7269
+B) CVE-2014-3704
+C) CVE-2018-7600
+D) CVE-2009-3963
+
+217. The Metasploit module exploit/windows/browser/java_jre17_exec matches which CVE?
+A) CVE-2013-0422
+B) CVE-2012-1823
+C) CVE-2017-0144
+D) CVE-2017-9805
+
+218. exploit/windows/browser/ms13_037_svg_dasharray exploits which CVE?
+A) CVE-2013-2551
+B) CVE-2013-1347
+C) CVE-2015-5122
+D) CVE-2011-0096
+
+219. Which CVE is mapped to exploit/linux/samba/is_known_pipename?
+A) CVE-2017-7494
+B) CVE-2012-1823
+C) CVE-2014-6271
+D) CVE-2015-5122
+
+220. The module exploit/unix/webapp/wordpress_wp_slideshowgallery_upload corresponds to which CVE?
+A) CVE-2014-5460
+B) CVE-2018-7600
+C) CVE-2013-0422
+D) CVE-2017-0143
+
+221. Which Metasploit module is used for CVE-2017-5638?
+A) exploit/multi/http/struts2_content_type_ognl
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/http/ms15_034_ulonglongadd
+D) exploit/unix/webapp/drupal_drupalgeddon
+
+222. exploit/windows/browser/ms10_018_ie_behaviors matches which CVE?
+A) CVE-2010-0806
+B) CVE-2011-1996
+C) CVE-2017-0143
+D) CVE-2012-0158
+
+223. The Metasploit module exploit/windows/browser/ms13_009_ie_slayage targets which CVE?
+A) CVE-2013-1347
+B) CVE-2013-2028
+C) CVE-2010-3333
+D) CVE-2017-0146
+
+224. exploit/linux/local/dirtycow is for which CVE?
+A) CVE-2016-5195
+B) CVE-2017-0143
+C) CVE-2017-9805
+D) CVE-2015-1635
+
+225. Which CVE goes with exploit/windows/fileformat/adobe_flash_rce?
+A) CVE-2015-5122
+B) CVE-2017-7269
+C) CVE-2017-0143
+D) CVE-2011-2523
+
+226. The module exploit/unix/webapp/joomla_http_header_rce matches which CVE?
+A) CVE-2015-8562
+B) CVE-2010-3333
+C) CVE-2011-2523
+D) CVE-2015-1635
+
+227. exploit/windows/smb/ms08_067_netapi exploits which CVE?
+A) CVE-2008-4250
+B) CVE-2017-9805
+C) CVE-2012-1823
+D) CVE-2017-0143
+
+228. Which Metasploit module is for CVE-2018-7600?
+A) exploit/linux/http/drupal_drupalgeddon2
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/unix/webapp/tomcat_mgr_upload
+
+229. exploit/windows/browser/java_cmm targets which CVE?
+A) CVE-2012-0507
+B) CVE-2011-0096
+C) CVE-2017-0144
+D) CVE-2014-5460
+
+230. The Metasploit module exploit/unix/webapp/drupal_drupalgeddon is mapped to which CVE?
+A) CVE-2014-3704
+B) CVE-2017-0144
+C) CVE-2012-0158
+D) CVE-2015-8562
+
+231. Which CVE is associated with exploit/windows/fileformat/ms10_087_rtf_pfragments_bof?
+A) CVE-2010-3333
+B) CVE-2011-2523
+C) CVE-2014-6352
+D) CVE-2017-0144
+
+232. exploit/windows/fileformat/ms12_027_mscomctl_bof exploits which CVE?
+A) CVE-2012-0158
+B) CVE-2015-5122
+C) CVE-2017-7494
+D) CVE-2012-1823
+
+233. The module exploit/multi/http/tomcat_mgr_upload is for which CVE?
+A) CVE-2009-3843
+B) CVE-2013-2551
+C) CVE-2015-1328
+D) CVE-2017-0143
+
+234. exploit/windows/smb/ms17_010_eternalblue matches which CVE?
+A) CVE-2017-0144
+B) CVE-2014-6271
+C) CVE-2011-0096
+D) CVE-2013-1347
+
+235. Which Metasploit module is mapped to CVE-2017-10271?
+A) exploit/multi/http/weblogic_deserialize_badattrval
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/linux/samba/is_known_pipename
+D) exploit/unix/webapp/wp_admin_shell_upload
+
+236. exploit/windows/smb/ms17_010_psexec targets which CVE?
+A) CVE-2017-0144
+B) CVE-2013-0422
+C) CVE-2011-2523
+D) CVE-2016-3088
+
+237. The Metasploit module exploit/windows/browser/ms11_003_ie_css_import is associated with which CVE?
+A) CVE-2011-0096
+B) CVE-2014-5460
+C) CVE-2011-2523
+D) CVE-2012-0158
+
+238. exploit/multi/http/struts2_content_type_ognl targets which CVE?
+A) CVE-2017-5638
+B) CVE-2013-2551
+C) CVE-2012-1823
+D) CVE-2015-1328
+
+239. Which CVE is for exploit/windows/browser/ms13_009_ie_slayage?
+A) CVE-2013-1347
+B) CVE-2014-3704
+C) CVE-2016-3088
+D) CVE-2010-3333
+
+240. The module exploit/windows/browser/java_atomicreferencearray is for which CVE?
+A) CVE-2010-0840
+B) CVE-2017-0143
+C) CVE-2013-2551
+D) CVE-2012-0507
+
+241. exploit/windows/smb/psexec exploits which vulnerability?
+A) Credentials reuse (no specific CVE)
+B) CVE-2017-0144
+C) CVE-2014-3704
+D) CVE-2017-7269
+
+242. Which module exploits CVE-2017-9805?
+A) exploit/multi/http/struts2_rest_xstream
+B) exploit/unix/irc/unreal_ircd_3281_backdoor
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/unix/webapp/drupal_drupalgeddon2
+
+243. The Metasploit module exploit/windows/browser/ms13_054_msword_rce targets which CVE?
+A) CVE-2013-1331
+B) CVE-2011-2523
+C) CVE-2014-3704
+D) CVE-2013-1347
+
+244. exploit/unix/webapp/wp_admin_shell_upload matches which CVE?
+A) CVE-2015-1328
+B) CVE-2011-2523
+C) CVE-2015-8562
+D) CVE-2010-3333
+
+245. Which CVE goes with exploit/multi/http/phpmyadmin_unauth_rce?
+A) CVE-2012-5159
+B) CVE-2011-0096
+C) CVE-2017-5638
+D) CVE-2018-7600
+
+246. The module exploit/windows/fileformat/ms13_054_msword_rce corresponds to which CVE?
+A) CVE-2013-1331
+B) CVE-2017-10271
+C) CVE-2010-0806
+D) CVE-2011-2523
+
+247. exploit/windows/browser/ms11_050_mshtml_cobjectelement exploits which CVE?
+A) CVE-2011-1996
+B) CVE-2017-0144
+C) CVE-2013-2028
+D) CVE-2018-7600
+
+248. Which Metasploit module targets CVE-2013-0422?
+A) exploit/windows/browser/java_jre17_exec
+B) exploit/unix/webapp/drupal_drupalgeddon
+C) exploit/windows/smb/ms17_010_eternalchampion
+D) exploit/windows/fileformat/ms13_054_msword_rce
+
+249. exploit/unix/webapp/twiki_search is mapped to which CVE?
+A) CVE-2005-2876
+B) CVE-2016-5195
+C) CVE-2017-0143
+D) CVE-2010-3333
+
+250. The Metasploit module exploit/windows/fileformat/ms10_087_rtf_pfragments_bof is for which CVE?
+A) CVE-2010-3333
+B) CVE-2016-5195
+C) CVE-2015-5122
+D) CVE-2017-0143
+
+251. Which module targets CVE-2011-2523?
+A) exploit/unix/ftp/vsftpd_234_backdoor
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/windows/browser/ms14_064_ole_code_execution
+D) exploit/multi/http/struts2_content_type_ognl
+
+252. exploit/windows/browser/ms12_004_mp4_rst is for which CVE?
+A) CVE-2012-0044
+B) CVE-2012-0158
+C) CVE-2013-1331
+D) CVE-2010-3333
+
+253. The Metasploit module exploit/windows/fileformat/ms12_027_mscomctl_bof matches which CVE?
+A) CVE-2012-0158
+B) CVE-2011-2523
+C) CVE-2018-7600
+D) CVE-2011-1996
+
+254. exploit/windows/smb/ms17_010_eternalromance is associated with which CVE?
+A) CVE-2017-0145
+B) CVE-2017-7269
+C) CVE-2010-0806
+D) CVE-2016-3088
+
+255. Which CVE corresponds to exploit/windows/http/ms15_034_ulonglongadd?
+A) CVE-2015-1635
+B) CVE-2012-1823
+C) CVE-2013-0422
+D) CVE-2017-0144
+
+256. The Metasploit module exploit/unix/webapp/tomcat_mgr_upload is for which CVE?
+A) CVE-2009-3843
+B) CVE-2014-3704
+C) CVE-2012-1823
+D) CVE-2015-8562
+
+257. exploit/windows/browser/ms15_034_ulonglongadd matches which CVE?
+A) CVE-2015-1635
+B) CVE-2017-7494
+C) CVE-2016-5195
+D) CVE-2014-5460
+
+258. Which Metasploit module is mapped to CVE-2016-5195?
+A) exploit/linux/local/dirtycow
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/unix/webapp/php_cgi_arg_injection
+
+259. exploit/unix/irc/unreal_ircd_3281_backdoor is for which CVE?
+A) CVE-2009-3963
+B) CVE-2015-1635
+C) CVE-2010-3333
+D) CVE-2008-4250
+
+260. The module exploit/windows/browser/ms13_037_svg_dasharray targets which CVE?
+A) CVE-2013-2551
+B) CVE-2013-1347
+C) CVE-2018-7600
+D) CVE-2010-3333
+
+261. exploit/multi/http/jenkins_metaprogramming exploits which CVE?
+A) CVE-2017-1000353
+B) CVE-2013-2551
+C) CVE-2017-7269
+D) CVE-2008-4250
+
+262. Which CVE is for exploit/unix/webapp/php_cgi_arg_injection?
+A) CVE-2012-1823
+B) CVE-2017-0144
+C) CVE-2011-2523
+D) CVE-2013-2028
+
+263. exploit/windows/browser/ms14_064_ole_code_execution corresponds to which CVE?
+A) CVE-2014-6352
+B) CVE-2010-0840
+C) CVE-2015-1635
+D) CVE-2011-0096
+
+264. The Metasploit module exploit/windows/smb/ms08_067_netapi matches which CVE?
+A) CVE-2008-4250
+B) CVE-2018-7600
+C) CVE-2010-3333
+D) CVE-2015-8562
+
+265. exploit/windows/browser/ms10_018_ie_behaviors is for which CVE?
+A) CVE-2010-0806
+B) CVE-2011-1996
+C) CVE-2017-0143
+D) CVE-2015-1635
+
+266. Which module maps to CVE-2014-6352?
+A) exploit/windows/browser/ms14_064_ole_code_execution
+B) exploit/windows/http/icecast_header
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/unix/ftp/vsftpd_234_backdoor
+
+267. exploit/windows/browser/java_jre17_exec matches which CVE?
+A) CVE-2013-0422
+B) CVE-2012-1823
+C) CVE-2011-2523
+D) CVE-2015-1328
+
+268. The module exploit/multi/http/struts2_devmode targets which CVE?
+A) CVE-2013-2028
+B) CVE-2012-0158
+C) CVE-2015-1635
+D) CVE-2017-0146
+
+269. Which CVE does exploit/unix/webapp/joomla_http_header_rce target?
+A) CVE-2015-8562
+B) CVE-2010-3333
+C) CVE-2016-5195
+D) CVE-2013-2028
+
+270. exploit/windows/fileformat/ms13_054_msword_rce exploits which CVE?
+A) CVE-2013-1331
+B) CVE-2011-0096
+C) CVE-2012-0507
+D) CVE-2015-5122
+
+271. The Metasploit module exploit/windows/browser/ms11_003_ie_css_import is used for which CVE?
+A) CVE-2011-0096
+B) CVE-2012-0507
+C) CVE-2011-1996
+D) CVE-2017-0144
+
+272. exploit/windows/smb/ms17_010_eternalblue is mapped to which CVE?
+A) CVE-2017-0144
+B) CVE-2017-1000353
+C) CVE-2015-8562
+D) CVE-2011-2523
+
+273. Which Metasploit module targets CVE-2015-1635?
+A) exploit/windows/http/ms15_034_ulonglongadd
+B) exploit/unix/ftp/vsftpd_234_backdoor
+C) exploit/windows/smb/ms17_010_eternalchampion
+D) exploit/linux/local/dirtycow
+
+274. exploit/linux/samba/is_known_pipename matches which CVE?
+A) CVE-2017-7494
+B) CVE-2010-0840
+C) CVE-2017-0145
+D) CVE-2017-11882
+
+275. The module exploit/multi/http/struts2_rest_xstream corresponds to which CVE?
+A) CVE-2017-9805
+B) CVE-2010-3333
+C) CVE-2017-0144
+D) CVE-2013-2551
+
+276. exploit/windows/browser/java_cmm is used for which CVE?
+A) CVE-2012-0507
+B) CVE-2017-7494
+C) CVE-2017-0144
+D) CVE-2010-0840
+
+277. Which CVE is targeted by exploit/unix/webapp/drupal_drupalgeddon2?
+A) CVE-2018-7600
+B) CVE-2014-3704
+C) CVE-2011-2523
+D) CVE-2014-6271
+
+278. exploit/windows/smb/ms17_010_eternalromance matches which CVE?
+A) CVE-2017-0145
+B) CVE-2011-2523
+C) CVE-2017-9805
+D) CVE-2014-3704
+
+279. The Metasploit module exploit/windows/browser/ms13_069_cmarkup targets which CVE?
+A) CVE-2013-3871
+B) CVE-2011-2523
+C) CVE-2010-3333
+D) CVE-2017-7269
+
+280. Which Metasploit module exploits CVE-2017-7494?
+A) exploit/linux/samba/is_known_pipename
+B) exploit/windows/browser/ms11_003_ie_css_import
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/windows/http/icecast_header
+
+281. exploit/windows/fileformat/ms15_100_unicode_path maps to which CVE?
+A) CVE-2015-2545
+B) CVE-2014-3704
+C) CVE-2011-0096
+D) CVE-2014-5460
+
+282. The module exploit/windows/office/eqnedt32_hta is mapped to which CVE?
+A) CVE-2017-11882
+B) CVE-2010-0806
+C) CVE-2016-5195
+D) CVE-2015-1328
+
+283. Which CVE does exploit/windows/smb/ms17_010_doublepulsar target?
+A) CVE-2017-0146
+B) CVE-2017-0144
+C) CVE-2017-7269
+D) CVE-2011-2523
+
+284. exploit/windows/browser/ms13_037_svg_dasharray matches which CVE?
+A) CVE-2013-2551
+B) CVE-2017-10271
+C) CVE-2015-5122
+D) CVE-2017-7269
+
+285. The Metasploit module exploit/unix/webapp/wp_admin_shell_upload is for which CVE?
+A) CVE-2015-1328
+B) CVE-2017-7494
+C) CVE-2015-1635
+D) CVE-2012-0507
+
+286. exploit/windows/fileformat/adobe_flash_rce exploits which CVE?
+A) CVE-2015-5122
+B) CVE-2014-6352
+C) CVE-2010-3333
+D) CVE-2011-1996
+
+287. Which module corresponds to CVE-2010-3333?
+A) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+B) exploit/windows/browser/ms10_018_ie_behaviors
+C) exploit/multi/http/struts2_devmode
+D) exploit/windows/smb/ms17_010_psexec
+
+288. The module exploit/windows/fileformat/ms12_027_mscomctl_bof matches which CVE?
+A) CVE-2012-0158
+B) CVE-2011-2523
+C) CVE-2013-0422
+D) CVE-2010-0840
+
+289. exploit/unix/webapp/wordpress_wp_slideshowgallery_upload is mapped to which CVE?
+A) CVE-2014-5460
+B) CVE-2017-7494
+C) CVE-2013-0422
+D) CVE-2011-1996
+
+290. Which Metasploit module targets CVE-2013-2028?
+A) exploit/multi/http/struts2_devmode
+B) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/windows/office/eqnedt32_hta
+
+291. exploit/windows/browser/ms14_064_ole_code_execution targets which CVE?
+A) CVE-2014-6352
+B) CVE-2011-2523
+C) CVE-2017-7494
+D) CVE-2012-0507
+
+292. The module exploit/multi/http/struts2_rest_xstream matches which CVE?
+A) CVE-2017-9805
+B) CVE-2010-3333
+C) CVE-2014-3704
+D) CVE-2017-0146
+
+293. exploit/windows/smb/ms17_010_eternalchampion is for which CVE?
+A) CVE-2017-0146
+B) CVE-2011-2523
+C) CVE-2016-5195
+D) CVE-2015-1641
+
+294. Which CVE does exploit/windows/browser/ms13_054_msword_rce target?
+A) CVE-2013-1331
+B) CVE-2017-0145
+C) CVE-2017-0144
+D) CVE-2015-1328
+
+295. The Metasploit module exploit/windows/smb/ms17_010_psexec is associated with which CVE?
+A) CVE-2017-0144
+B) CVE-2011-2523
+C) CVE-2013-2028
+D) CVE-2014-6352
+
+296. exploit/multi/http/apache_mod_cgi_bash_env_exec is for which CVE?
+A) CVE-2014-6271
+B) CVE-2010-3333
+C) CVE-2012-1823
+D) CVE-2017-0146
+
+297. Which module maps to CVE-2012-1823?
+A) exploit/unix/webapp/php_cgi_arg_injection
+B) exploit/windows/smb/ms17_010_psexec
+C) exploit/unix/ftp/vsftpd_234_backdoor
+D) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+
+298. exploit/linux/local/dirtycow targets which CVE?
+A) CVE-2016-5195
+B) CVE-2017-7494
+C) CVE-2011-2523
+D) CVE-2010-3333
+
+299. The Metasploit module exploit/windows/browser/ms14_064_ole_code_execution matches which CVE?
+A) CVE-2014-6352
+B) CVE-2011-2523
+C) CVE-2017-0144
+D) CVE-2017-7494
+
+300. Which CVE is mapped to exploit/unix/irc/unreal_ircd_3281_backdoor?
+A) CVE-2009-3963
+B) CVE-2011-2523
+C) CVE-2010-3333
+D) CVE-2016-5195
+
+301. Which Metasploit module exploits CVE-2018-11776?
+A) exploit/multi/http/struts2_namespace_ognl
+B) exploit/windows/smb/ms17_010_eternalblue
+C) exploit/unix/irc/unreal_ircd_3281_backdoor
+D) exploit/windows/http/ms15_034_ulonglongadd
+
+302. The module exploit/multi/http/tp_link_pwd_auth takes advantage of which CVE?
+A) CVE-2017-13772
+B) CVE-2018-7600
+C) CVE-2017-1000353
+D) CVE-2014-6271
+
+303. Which CVE is targeted by exploit/linux/http/hadoop_unauth_exec?
+A) CVE-2017-15718
+B) CVE-2017-9822
+C) CVE-2015-8562
+D) CVE-2014-3704
+
+304. exploit/windows/browser/ms11_050_mshtml_cobjectelement is associated with which CVE?
+A) CVE-2011-1996
+B) CVE-2013-1331
+C) CVE-2014-5460
+D) CVE-2016-3088
+
+305. Which module exploits CVE-2019-0708?
+A) exploit/windows/rdp/cve_2019_0708_bluekeep_rce
+B) exploit/windows/browser/ms13_009_ie_slayage
+C) exploit/unix/ftp/vsftpd_234_backdoor
+D) exploit/multi/samba/usermap_script
+
+306. The Metasploit module exploit/unix/webapp/rails_xml_yaml_code_exec is for which CVE?
+A) CVE-2013-0156
+B) CVE-2018-7600
+C) CVE-2017-7494
+D) CVE-2015-1635
+
+307. Which CVE does exploit/multi/http/ruckus_unauth_rce target?
+A) CVE-2016-5676
+B) CVE-2017-0146
+C) CVE-2012-0158
+D) CVE-2015-5122
+
+308. Which Metasploit module targets CVE-2017-8570?
+A) exploit/windows/fileformat/office_msword_rce_2017_8570
+B) exploit/windows/smb/ms17_010_eternalchampion
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/multi/http/struts2_devmode
+
+309. exploit/multi/http/zimbra_xxe targets which CVE?
+A) CVE-2019-9670
+B) CVE-2017-0146
+C) CVE-2011-2523
+D) CVE-2017-5638
+
+310. The Metasploit module exploit/windows/browser/flash_utf8_array targets which CVE?
+A) CVE-2014-0515
+B) CVE-2017-0144
+C) CVE-2016-3088
+D) CVE-2015-5122
+
+311. Which CVE is exploited by exploit/unix/webapp/foswiki_command_injection?
+A) CVE-2014-7236
+B) CVE-2017-9822
+C) CVE-2015-8562
+D) CVE-2017-7494
+
+312. exploit/windows/smb/smbdollar_stack_overflow targets which CVE?
+A) CVE-2007-2447
+B) CVE-2007-2446
+C) CVE-2008-4250
+D) CVE-2012-0158
+
+313. The module exploit/windows/browser/ms10_002_aurora is mapped to which CVE?
+A) CVE-2010-0249
+B) CVE-2012-1823
+C) CVE-2016-3088
+D) CVE-2015-1328
+
+314. Which Metasploit module exploits CVE-2017-11826?
+A) exploit/windows/office/ms_office_oleobj_code_exec
+B) exploit/unix/irc/unreal_ircd_3281_backdoor
+C) exploit/linux/samba/is_known_pipename
+D) exploit/windows/smb/ms17_010_psexec
+
+315. exploit/multi/http/atlassian_crowd_deserialize targets which CVE?
+A) CVE-2019-11580
+B) CVE-2014-5460
+C) CVE-2018-7600
+D) CVE-2012-0158
+
+316. The Metasploit module exploit/windows/fileformat/adobe_cooltype_sing targets which CVE?
+A) CVE-2010-2883
+B) CVE-2017-0144
+C) CVE-2015-1328
+D) CVE-2017-1000353
+
+317. exploit/windows/browser/ms12_063_mediasetmemorychunk targets which CVE?
+A) CVE-2012-4969
+B) CVE-2012-0158
+C) CVE-2013-2551
+D) CVE-2017-5638
+
+318. Which CVE is mapped to exploit/multi/http/php_formidable_upload_exec?
+A) CVE-2016-10033
+B) CVE-2016-9843
+C) CVE-2017-0145
+D) CVE-2011-2523
+
+319. The module exploit/windows/browser/ms13_090_cardspacesigninhelper targets which CVE?
+A) CVE-2013-3918
+B) CVE-2017-0144
+C) CVE-2010-3333
+D) CVE-2012-4969
+
+320. exploit/linux/http/advantech_webaccess_dashboard_upload targets which CVE?
+A) CVE-2017-16720
+B) CVE-2015-1635
+C) CVE-2014-6271
+D) CVE-2017-9805
+
+321. Which Metasploit module exploits CVE-2015-5119?
+A) exploit/multi/browser/adobe_flash_shader_drawing_fill
+B) exploit/unix/webapp/php_cgi_arg_injection
+C) exploit/windows/smb/ms17_010_eternalchampion
+D) exploit/windows/http/icecast_header
+
+322. exploit/unix/webapp/phpmailer_arg_injection is associated with which CVE?
+A) CVE-2016-10033
+B) CVE-2011-2523
+C) CVE-2017-0144
+D) CVE-2014-3704
+
+323. The module exploit/multi/http/tivoli_endpoint_manager targets which CVE?
+A) CVE-2016-8972
+B) CVE-2017-8570
+C) CVE-2018-11776
+D) CVE-2016-3088
+
+324. exploit/windows/browser/ms16_087_pdf exploits which CVE?
+A) CVE-2016-4117
+B) CVE-2014-6271
+C) CVE-2015-1328
+D) CVE-2017-7494
+
+325. Which CVE is exploited by exploit/windows/browser/ms14_064_ole_code_execution?
+A) CVE-2014-6352
+B) CVE-2018-7600
+C) CVE-2011-0096
+D) CVE-2015-5122
+
+326. The Metasploit module exploit/unix/webapp/zabbix_script_exec is for which CVE?
+A) CVE-2013-3628
+B) CVE-2015-1635
+C) CVE-2016-10033
+D) CVE-2017-0146
+
+327. exploit/windows/fileformat/ms15_057_rtf targets which CVE?
+A) CVE-2015-1641
+B) CVE-2017-11882
+C) CVE-2012-0158
+D) CVE-2011-2523
+
+328. Which Metasploit module targets CVE-2017-8464?
+A) exploit/windows/fileformat/lnk_setinfotip
+B) exploit/windows/fileformat/ms13_054_msword_rce
+C) exploit/windows/office/eqnedt32_hta
+D) exploit/multi/http/struts2_content_type_ognl
+
+329. exploit/linux/http/dlink_dir850l_caupload targets which CVE?
+A) CVE-2018-10822
+B) CVE-2016-5195
+C) CVE-2011-1996
+D) CVE-2012-1823
+
+330. The module exploit/multi/http/jenkins_metaprogramming is for which CVE?
+A) CVE-2017-1000353
+B) CVE-2017-8570
+C) CVE-2018-10822
+D) CVE-2016-10033
+
+331. Which CVE does exploit/windows/browser/java_jre18_glassfish target?
+A) CVE-2012-5076
+B) CVE-2016-5195
+C) CVE-2017-7494
+D) CVE-2012-1823
+
+332. exploit/unix/webapp/wordpress_mailpress_rce exploits which CVE?
+A) CVE-2012-0782
+B) CVE-2015-1635
+C) CVE-2018-11776
+D) CVE-2011-2523
+
+333. Which Metasploit module exploits CVE-2017-5638?
+A) exploit/multi/http/struts2_content_type_ognl
+B) exploit/unix/webapp/drupal_drupalgeddon2
+C) exploit/windows/http/ms15_034_ulonglongadd
+D) exploit/linux/http/hadoop_unauth_exec
+
+334. exploit/windows/smb/ms17_010_psexec targets which CVE?
+A) CVE-2017-0144
+B) CVE-2017-7494
+C) CVE-2013-2028
+D) CVE-2016-10033
+
+335. The module exploit/windows/fileformat/ms12_027_mscomctl_bof targets which CVE?
+A) CVE-2012-0158
+B) CVE-2011-1996
+C) CVE-2014-6271
+D) CVE-2017-11826
+
+336. Which CVE matches exploit/unix/webapp/php_cgi_arg_injection?
+A) CVE-2012-1823
+B) CVE-2011-1996
+C) CVE-2018-7600
+D) CVE-2016-8972
+
+337. exploit/windows/browser/ms15_034_ulonglongadd exploits which CVE?
+A) CVE-2015-1635
+B) CVE-2014-7236
+C) CVE-2017-1000353
+D) CVE-2017-8464
+
+338. The Metasploit module exploit/unix/webapp/joomla_http_header_rce targets which CVE?
+A) CVE-2015-8562
+B) CVE-2017-15718
+C) CVE-2013-2028
+D) CVE-2017-8464
+
+339. Which Metasploit module is for CVE-2017-7269?
+A) exploit/windows/iis/iis_webdav_scstoragepathfromurl
+B) exploit/windows/fileformat/ms15_057_rtf
+C) exploit/multi/http/struts2_namespace_ognl
+D) exploit/windows/smb/ms17_010_eternalchampion
+
+340. exploit/unix/webapp/drupal_drupalgeddon matches which CVE?
+A) CVE-2014-3704
+B) CVE-2017-5638
+C) CVE-2018-10822
+D) CVE-2017-13772
+
+341. The module exploit/linux/local/abrt_hash_abuse exploits which CVE?
+A) CVE-2015-3315
+B) CVE-2015-5122
+C) CVE-2014-6271
+D) CVE-2011-2523
+
+342. Which CVE does exploit/unix/webapp/tomcat_mgr_upload target?
+A) CVE-2009-3843
+B) CVE-2012-0158
+C) CVE-2018-11776
+D) CVE-2012-5076
+
+343. exploit/windows/fileformat/ms14_017_rce targets which CVE?
+A) CVE-2014-1761
+B) CVE-2014-6352
+C) CVE-2017-7494
+D) CVE-2013-0156
+
+344. The Metasploit module exploit/linux/http/atvise_webmi_parsexml targets which CVE?
+A) CVE-2018-5453
+B) CVE-2015-8570
+C) CVE-2017-8464
+D) CVE-2017-15718
+
+345. Which module exploits CVE-2014-4114?
+A) exploit/windows/fileformat/ms14_060_sandworm
+B) exploit/windows/fileformat/ms13_054_msword_rce
+C) exploit/unix/ftp/vsftpd_234_backdoor
+D) exploit/windows/office/eqnedt32_hta
+
+346. exploit/windows/browser/ms12_037_same_id targets which CVE?
+A) CVE-2012-1875
+B) CVE-2017-11826
+C) CVE-2013-1331
+D) CVE-2017-8464
+
+347. Which CVE is matched to exploit/windows/fileformat/ms16_121_rtf?
+A) CVE-2016-7255
+B) CVE-2016-7196
+C) CVE-2016-7193
+D) CVE-2016-0137
+
+348. exploit/linux/http/netgear_ping_cgi_exec exploits which CVE?
+A) CVE-2017-6862
+B) CVE-2017-0144
+C) CVE-2011-1996
+D) CVE-2016-8972
+
+349. The module exploit/windows/browser/ms16_053_font targets which CVE?
+A) CVE-2016-0176
+B) CVE-2017-8464
+C) CVE-2017-8570
+D) CVE-2014-6352
+
+350. Which Metasploit module is for CVE-2015-2526?
+A) exploit/windows/smb/ms15_061_kerberos
+B) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+C) exploit/windows/http/icecast_header
+D) exploit/multi/http/struts2_rest_xstream
+
+351. exploit/unix/webapp/joomla_user_sql_exec matches which CVE?
+A) CVE-2015-7297
+B) CVE-2012-1823
+C) CVE-2014-6271
+D) CVE-2016-0137
+
+352. The Metasploit module exploit/windows/browser/java_jre18_glassfish exploits which CVE?
+A) CVE-2012-5076
+B) CVE-2012-0158
+C) CVE-2010-3333
+D) CVE-2015-8562
+
+353. Which CVE does exploit/windows/fileformat/adobe_flash_rce map to?
+A) CVE-2015-5122
+B) CVE-2013-2028
+C) CVE-2017-8464
+D) CVE-2017-16720
+
+354. The module exploit/windows/browser/ms13_037_svg_dasharray is associated with which CVE?
+A) CVE-2013-2551
+B) CVE-2017-16720
+C) CVE-2014-5460
+D) CVE-2011-2523
+
+355. Which Metasploit module targets CVE-2016-5195?
+A) exploit/linux/local/dirtycow
+B) exploit/windows/fileformat/ms13_054_msword_rce
+C) exploit/windows/http/icecast_header
+D) exploit/multi/http/php_formidable_upload_exec
+
+356. exploit/windows/browser/ms12_037_same_id is for which CVE?
+A) CVE-2012-1875
+B) CVE-2015-2526
+C) CVE-2016-7255
+D) CVE-2017-1000353
+
+357. The module exploit/windows/fileformat/ms16_070_msword targets which CVE?
+A) CVE-2016-0021
+B) CVE-2016-0137
+C) CVE-2015-8570
+D) CVE-2016-7255
+
+358. Which CVE is exploited by exploit/windows/browser/ms10_046_shortcut_icon_dllloader?
+A) CVE-2010-2568
+B) CVE-2011-2523
+C) CVE-2011-1996
+D) CVE-2015-2526
+
+359. exploit/unix/ftp/proftpd_modcopy_exec is associated with which CVE?
+A) CVE-2015-3306
+B) CVE-2017-5624
+C) CVE-2015-1641
+D) CVE-2012-5076
+
+360. The Metasploit module exploit/windows/fileformat/ms12_064_winword_rce exploits which CVE?
+A) CVE-2012-2539
+B) CVE-2012-5064
+C) CVE-2011-1996
+D) CVE-2017-8464
+
+361. Which module matches CVE-2012-5059?
+A) exploit/windows/browser/java_jre17_exec
+B) exploit/multi/http/jenkins_metaprogramming
+C) exploit/windows/fileformat/ms12_064_winword_rce
+D) exploit/windows/browser/flash_utf8_array
+
+362. exploit/unix/webapp/tomcat_mgr_upload is mapped to which CVE?
+A) CVE-2009-3843
+B) CVE-2015-2526
+C) CVE-2016-8972
+D) CVE-2013-2551
+
+363. Which Metasploit module exploits CVE-2015-3636?
+A) exploit/linux/local/android_towelroot
+B) exploit/unix/webapp/joomla_user_sql_exec
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/unix/irc/unreal_ircd_3281_backdoor
+
+364. The module exploit/windows/fileformat/ms14_017_rce matches which CVE?
+A) CVE-2014-1761
+B) CVE-2011-1996
+C) CVE-2017-8464
+D) CVE-2016-7255
+
+365. exploit/unix/webapp/liferay_portal_groovy targets which CVE?
+A) CVE-2015-8849
+B) CVE-2012-0782
+C) CVE-2012-0158
+D) CVE-2017-11882
+
+366. Which CVE does exploit/windows/fileformat/ms17_010_word_rce map to?
+A) CVE-2017-0199
+B) CVE-2017-0144
+C) CVE-2017-8464
+D) CVE-2016-0137
+
+367. The Metasploit module exploit/multi/http/opentext_wrm_exec exploits which CVE?
+A) CVE-2019-12881
+B) CVE-2018-11776
+C) CVE-2013-0156
+D) CVE-2010-2883
+
+368. Which module targets CVE-2017-5689?
+A) exploit/windows/http/intel_amt_redirect_port
+B) exploit/windows/smb/ms08_067_netapi
+C) exploit/windows/office/eqnedt32_hta
+D) exploit/unix/webapp/wp_admin_shell_upload
+
+369. exploit/unix/webapp/phpmyadmin_pma_setup_rce is for which CVE?
+A) CVE-2009-1151
+B) CVE-2012-0158
+C) CVE-2014-6271
+D) CVE-2017-8464
+
+370. The module exploit/windows/dcerpc/ms03_026_dcom is mapped to which CVE?
+A) CVE-2003-0352
+B) CVE-2017-8570
+C) CVE-2012-5076
+D) CVE-2014-5460
+
+371. Which Metasploit module exploits CVE-2018-10562?
+A) exploit/linux/http/wioterminal_password_rce
+B) exploit/unix/webapp/phpmailer_arg_injection
+C) exploit/windows/fileformat/ms16_070_msword
+D) exploit/windows/browser/ms12_037_same_id
+
+372. exploit/windows/fileformat/ms15_100_unicode_path is for which CVE?
+A) CVE-2015-2545
+B) CVE-2011-2523
+C) CVE-2017-0144
+D) CVE-2016-8972
+
+373. The module exploit/unix/webapp/twiki_search targets which CVE?
+A) CVE-2005-2876
+B) CVE-2017-16720
+C) CVE-2015-7297
+D) CVE-2016-10033
+
+374. exploit/windows/browser/java_cmm is for which CVE?
+A) CVE-2012-0507
+B) CVE-2011-1996
+C) CVE-2017-8464
+D) CVE-2018-7600
+
+375. Which CVE is mapped to exploit/windows/fileformat/ms16_070_msword?
+A) CVE-2016-0021
+B) CVE-2017-0146
+C) CVE-2016-0137
+D) CVE-2011-0096
+
+376. exploit/unix/webapp/joomla_http_header_rce targets which CVE?
+A) CVE-2015-8562
+B) CVE-2018-7600
+C) CVE-2013-1331
+D) CVE-2015-2526
+
+377. The Metasploit module exploit/windows/browser/ms10_002_aurora is used for which CVE?
+A) CVE-2010-0249
+B) CVE-2011-0096
+C) CVE-2016-7255
+D) CVE-2017-0144
+
+378. Which module matches CVE-2017-15718?
+A) exploit/linux/http/hadoop_unauth_exec
+B) exploit/windows/dcerpc/ms03_026_dcom
+C) exploit/windows/fileformat/ms15_100_unicode_path
+D) exploit/windows/browser/java_jre18_glassfish
+
+379. exploit/windows/fileformat/ms13_054_msword_rce is mapped to which CVE?
+A) CVE-2013-1331
+B) CVE-2017-8570
+C) CVE-2011-2523
+D) CVE-2012-1823
+
+380. The module exploit/unix/webapp/phpmailer_arg_injection is for which CVE?
+A) CVE-2016-10033
+B) CVE-2011-0096
+C) CVE-2014-4114
+D) CVE-2015-2526
+
+381. Which Metasploit module exploits CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/windows/smb/ms08_067_netapi
+C) exploit/unix/webapp/drupal_drupalgeddon2
+D) exploit/windows/smb/ms17_010_doublepulsar
+
+382. exploit/windows/browser/ms12_063_mediasetmemorychunk targets which CVE?
+A) CVE-2012-4969
+B) CVE-2018-7600
+C) CVE-2017-7494
+D) CVE-2012-0158
+
+383. exploit/unix/webapp/wordpress_mailpress_rce matches which CVE?
+A) CVE-2012-0782
+B) CVE-2014-5460
+C) CVE-2017-8464
+D) CVE-2017-16720
+
+384. The module exploit/windows/fileformat/ms14_060_sandworm exploits which CVE?
+A) CVE-2014-4114
+B) CVE-2016-0137
+C) CVE-2017-13772
+D) CVE-2016-0021
+
+385. Which CVE is exploited by exploit/unix/webapp/atutor_sqli_file_write?
+A) CVE-2016-2336
+B) CVE-2011-2523
+C) CVE-2012-0782
+D) CVE-2018-10822
+
+386. exploit/windows/smb/ms17_010_eternalblue matches which CVE?
+A) CVE-2017-0144
+B) CVE-2017-8464
+C) CVE-2012-0782
+D) CVE-2014-5460
+
+387. Which module maps to CVE-2017-1000353?
+A) exploit/multi/http/jenkins_metaprogramming
+B) exploit/windows/browser/ms12_037_same_id
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/unix/ftp/proftpd_modcopy_exec
+
+388. The Metasploit module exploit/windows/browser/ms11_050_mshtml_cobjectelement is for which CVE?
+A) CVE-2011-1996
+B) CVE-2015-5122
+C) CVE-2017-15718
+D) CVE-2015-3642
+
+389. exploit/multi/http/weblogic_deserialize_badattrval targets which CVE?
+A) CVE-2017-10271
+B) CVE-2014-7236
+C) CVE-2011-2523
+D) CVE-2009-1151
+
+390. Which CVE does exploit/linux/http/dlink_dir850l_caupload exploit?
+A) CVE-2018-10822
+B) CVE-2017-16720
+C) CVE-2011-2523
+D) CVE-2009-3843
+
+391. The module exploit/windows/smb/ms17_010_eternalchampion is matched to which CVE?
+A) CVE-2017-0146
+B) CVE-2016-2336
+C) CVE-2014-6271
+D) CVE-2012-5076
+
+392. Which Metasploit module targets CVE-2013-2028?
+A) exploit/multi/http/struts2_devmode
+B) exploit/windows/office/ms_office_oleobj_code_exec
+C) exploit/windows/smb/ms17_010_eternalchampion
+D) exploit/windows/fileformat/ms14_060_sandworm
+
+393. exploit/unix/webapp/wp_admin_shell_upload is for which CVE?
+A) CVE-2015-1328
+B) CVE-2015-1635
+C) CVE-2017-0144
+D) CVE-2005-2876
+
+394. The module exploit/windows/browser/ms15_034_ulonglongadd matches which CVE?
+A) CVE-2015-1635
+B) CVE-2011-0096
+C) CVE-2017-8570
+D) CVE-2018-10822
+
+395. exploit/unix/webapp/atutor_sqli_file_write matches which CVE?
+A) CVE-2016-2336
+B) CVE-2017-16720
+C) CVE-2017-7494
+D) CVE-2015-2526
+
+396. Which CVE is matched to exploit/windows/browser/ms10_046_shortcut_icon_dllloader?
+A) CVE-2010-2568
+B) CVE-2011-1996
+C) CVE-2017-0146
+D) CVE-2012-5076
+
+397. exploit/unix/webapp/foswiki_command_injection exploits which CVE?
+A) CVE-2014-7236
+B) CVE-2015-2526
+C) CVE-2017-0144
+D) CVE-2017-8570
+
+398. Which Metasploit module is mapped to CVE-2012-0158?
+A) exploit/windows/fileformat/ms12_027_mscomctl_bof
+B) exploit/multi/http/atlassian_crowd_deserialize
+C) exploit/unix/webapp/liferay_portal_groovy
+D) exploit/unix/irc/unreal_ircd_3281_backdoor
+
+399. The module exploit/windows/smb/ms08_067_netapi targets which CVE?
+A) CVE-2008-4250
+B) CVE-2010-2568
+C) CVE-2011-2523
+D) CVE-2014-6231
+
+400. exploit/unix/webapp/zabbix_script_exec is for which CVE?
+A) CVE-2013-3628
+B) CVE-2018-10562
+C) CVE-2014-1761
+D) CVE-2015-3315
+
+401. Which Metasploit module exploits CVE-2015-1427?
+A) exploit/unix/webapp/wp_admin_shell_upload
+B) exploit/multi/elasticsearch/script_mvel_rce
+C) exploit/multi/http/struts2_namespace_ognl
+D) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+
+402. The module exploit/windows/http/schannel_ms14_066 targets which CVE?
+A) CVE-2011-2523
+B) CVE-2014-6352
+C) CVE-2014-6321
+D) CVE-2017-0144
+
+403. Which CVE is mapped to exploit/multi/http/phplist_config_rce?
+A) CVE-2014-1934
+B) CVE-2016-10033
+C) CVE-2018-7600
+D) CVE-2014-6271
+
+404. exploit/unix/webapp/contao_install_tools targets which CVE?
+A) CVE-2017-16558
+B) CVE-2015-2526
+C) CVE-2015-1641
+D) CVE-2010-0806
+
+405. The Metasploit module exploit/windows/http/symantec_messaging_gateway_exec is for which CVE?
+A) CVE-2014-6321
+B) CVE-2015-2855
+C) CVE-2017-0146
+D) CVE-2012-0158
+
+406. Which module exploits CVE-2013-3906?
+A) exploit/windows/fileformat/ms13_085_rtf_pfragments
+B) exploit/windows/http/ms15_034_ulonglongadd
+C) exploit/windows/browser/ms13_009_ie_slayage
+D) exploit/unix/irc/unreal_ircd_3281_backdoor
+
+407. The module exploit/windows/fileformat/adobe_flash_uncompress_uaf maps to which CVE?
+A) CVE-2017-0145
+B) CVE-2015-0313
+C) CVE-2012-0158
+D) CVE-2013-0156
+
+408. Which CVE is targeted by exploit/multi/http/jenkins_metaprogramming?
+A) CVE-2012-1823
+B) CVE-2016-10033
+C) CVE-2017-1000353
+D) CVE-2017-11882
+
+409. exploit/windows/browser/ms14_035_iesandboxescape exploits which CVE?
+A) CVE-2014-1776
+B) CVE-2017-0144
+C) CVE-2014-6352
+D) CVE-2013-1331
+
+410. The Metasploit module exploit/unix/webapp/tikiwiki_graph_formula_exec is mapped to which CVE?
+A) CVE-2012-1172
+B) CVE-2013-0156
+C) CVE-2017-0146
+D) CVE-2014-3704
+
+411. Which Metasploit module exploits CVE-2018-4878?
+A) exploit/windows/browser/flash_usage_after_free
+B) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+C) exploit/windows/fileformat/ms13_054_msword_rce
+D) exploit/unix/webapp/php_cgi_arg_injection
+
+412. The module exploit/multi/http/atlassian_crowd_deserialize targets which CVE?
+A) CVE-2015-1328
+B) CVE-2018-11776
+C) CVE-2016-0137
+D) CVE-2019-11580
+
+413. Which Metasploit module is for CVE-2011-5046?
+A) exploit/unix/ftp/proftpd_133c_backdoor
+B) exploit/windows/smb/ms08_067_netapi
+C) exploit/multi/http/struts2_namespace_ognl
+D) exploit/unix/irc/unreal_ircd_3281_backdoor
+
+414. exploit/unix/webapp/joomla_com_fields_rce matches which CVE?
+A) CVE-2017-14596
+B) CVE-2015-2526
+C) CVE-2012-0158
+D) CVE-2013-2551
+
+415. Which CVE is mapped to exploit/windows/browser/java_jre17_exec?
+A) CVE-2013-0422
+B) CVE-2017-1000353
+C) CVE-2018-10822
+D) CVE-2014-6271
+
+416. exploit/unix/webapp/phpmyadmin_pma_setup_rce targets which CVE?
+A) CVE-2015-8562
+B) CVE-2011-2523
+C) CVE-2009-1151
+D) CVE-2017-7494
+
+417. The Metasploit module exploit/windows/browser/ms11_050_mshtml_cobjectelement is for which CVE?
+A) CVE-2011-1996
+B) CVE-2017-0143
+C) CVE-2016-7255
+D) CVE-2011-2523
+
+418. Which module exploits CVE-2013-1331?
+A) exploit/windows/fileformat/ms13_054_msword_rce
+B) exploit/unix/webapp/liferay_portal_groovy
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/multi/http/struts2_code_exec_classloader
+
+419. The Metasploit module exploit/windows/browser/ms10_018_ie_behaviors matches which CVE?
+A) CVE-2015-2526
+B) CVE-2010-0806
+C) CVE-2014-6271
+D) CVE-2017-11826
+
+420. Which CVE does exploit/multi/http/opensis_config_rce map to?
+A) CVE-2018-20443
+B) CVE-2010-2568
+C) CVE-2015-2526
+D) CVE-2016-8972
+
+421. exploit/windows/browser/ms14_037_svg_dasharray is for which CVE?
+A) CVE-2014-1791
+B) CVE-2013-2551
+C) CVE-2010-3333
+D) CVE-2011-2523
+
+422. Which Metasploit module exploits CVE-2017-7494?
+A) exploit/linux/samba/is_known_pipename
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/unix/webapp/wp_admin_shell_upload
+D) exploit/windows/http/ms15_034_ulonglongadd
+
+423. exploit/windows/fileformat/sap_gui_prog_execute targets which CVE?
+A) CVE-2010-3528
+B) CVE-2017-11882
+C) CVE-2017-8464
+D) CVE-2012-0158
+
+424. The Metasploit module exploit/unix/ftp/vsftpd_234_backdoor is associated with which CVE?
+A) CVE-2015-5122
+B) CVE-2011-2523
+C) CVE-2016-0137
+D) CVE-2014-6352
+
+425. Which module is for CVE-2017-10271?
+A) exploit/multi/http/weblogic_deserialize_badattrval
+B) exploit/windows/browser/ms13_009_ie_slayage
+C) exploit/multi/http/php_formidable_upload_exec
+D) exploit/windows/http/schannel_ms14_066
+
+426. exploit/windows/http/intel_amt_redirect_port matches which CVE?
+A) CVE-2014-6352
+B) CVE-2015-8562
+C) CVE-2017-5689
+D) CVE-2010-0249
+
+427. The module exploit/linux/http/advantech_webaccess_dashboard_upload exploits which CVE?
+A) CVE-2017-16720
+B) CVE-2017-8464
+C) CVE-2017-14596
+D) CVE-2017-15718
+
+428. Which CVE is for exploit/windows/fileformat/ms16_121_rtf?
+A) CVE-2016-7196
+B) CVE-2011-0096
+C) CVE-2010-3333
+D) CVE-2015-3636
+
+429. exploit/unix/webapp/php_cgi_arg_injection targets which CVE?
+A) CVE-2012-1823
+B) CVE-2017-0143
+C) CVE-2011-2523
+D) CVE-2013-0156
+
+430. Which Metasploit module exploits CVE-2015-1635?
+A) exploit/windows/http/ms15_034_ulonglongadd
+B) exploit/windows/fileformat/ms13_054_msword_rce
+C) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+D) exploit/multi/http/phpmyadmin_unauth_rce
+
+431. The module exploit/windows/smb/ms17_010_eternalchampion is for which CVE?
+A) CVE-2016-10033
+B) CVE-2016-5195
+C) CVE-2017-0146
+D) CVE-2017-7494
+
+432. Which CVE does exploit/unix/webapp/joomla_http_header_rce target?
+A) CVE-2015-8562
+B) CVE-2018-1000525
+C) CVE-2016-2336
+D) CVE-2012-1172
+
+433. exploit/windows/fileformat/ms13_069_cmarkup is mapped to which CVE?
+A) CVE-2013-3871
+B) CVE-2017-8464
+C) CVE-2015-5122
+D) CVE-2012-0158
+
+434. Which module is for CVE-2016-10033?
+A) exploit/unix/webapp/phpmailer_arg_injection
+B) exploit/unix/webapp/liferay_portal_groovy
+C) exploit/windows/smb/ms17_010_psexec
+D) exploit/windows/fileformat/adobe_flash_rce
+
+435. The Metasploit module exploit/linux/local/getcap_root targets which CVE?
+A) CVE-2016-2853
+B) CVE-2013-4878
+C) CVE-2014-6271
+D) CVE-2017-0146
+
+436. exploit/windows/browser/ms15_080_font targets which CVE?
+A) CVE-2015-2433
+B) CVE-2016-7255
+C) CVE-2010-2568
+D) CVE-2012-0158
+
+437. Which Metasploit module matches CVE-2019-3396?
+A) exploit/multi/http/atlassian_crowd_widget_connector
+B) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+C) exploit/windows/browser/ms13_009_ie_slayage
+D) exploit/unix/ftp/proftpd_modcopy_exec
+
+438. exploit/unix/webapp/atutor_sqli_file_write is for which CVE?
+A) CVE-2016-2336
+B) CVE-2012-0158
+C) CVE-2018-20443
+D) CVE-2019-3396
+
+439. Which CVE is targeted by exploit/windows/browser/ms13_009_ie_slayage?
+A) CVE-2013-1347
+B) CVE-2013-2028
+C) CVE-2017-7494
+D) CVE-2015-2526
+
+440. The Metasploit module exploit/windows/fileformat/adobe_flash_rce maps to which CVE?
+A) CVE-2015-5122
+B) CVE-2013-2551
+C) CVE-2014-3704
+D) CVE-2017-11882
+
+441. exploit/windows/dcerpc/ms04_012_lsasrv targets which CVE?
+A) CVE-2004-0116
+B) CVE-2009-3963
+C) CVE-2008-4250
+D) CVE-2011-2523
+
+442. Which Metasploit module targets CVE-2018-7600?
+A) exploit/linux/http/drupal_drupalgeddon2
+B) exploit/windows/fileformat/ms12_064_winword_rce
+C) exploit/windows/smb/ms17_010_eternalchampion
+D) exploit/unix/ftp/vsftpd_234_backdoor
+
+443. The module exploit/windows/smb/ms17_010_psexec is for which CVE?
+A) CVE-2017-0144
+B) CVE-2014-4114
+C) CVE-2017-8464
+D) CVE-2014-6352
+
+444. Which CVE is assigned to exploit/windows/browser/java_atomicreferencearray?
+A) CVE-2010-0840
+B) CVE-2016-7255
+C) CVE-2017-1000353
+D) CVE-2011-1996
+
+445. exploit/windows/browser/ms16_053_font is for which CVE?
+A) CVE-2016-0176
+B) CVE-2013-3906
+C) CVE-2018-10562
+D) CVE-2011-5046
+
+446. The Metasploit module exploit/unix/webapp/wp_admin_shell_upload is mapped to which CVE?
+A) CVE-2015-1328
+B) CVE-2015-5122
+C) CVE-2015-3636
+D) CVE-2017-8464
+
+447. Which module exploits CVE-2003-0352?
+A) exploit/windows/dcerpc/ms03_026_dcom
+B) exploit/windows/smb/ms15_061_kerberos
+C) exploit/windows/fileformat/ms14_060_sandworm
+D) exploit/windows/fileformat/ms13_054_msword_rce
+
+448. exploit/windows/browser/flash_utf8_array targets which CVE?
+A) CVE-2014-0515
+B) CVE-2015-8570
+C) CVE-2013-2551
+D) CVE-2011-2523
+
+449. The module exploit/unix/webapp/wordpress_mailpress_rce exploits which CVE?
+A) CVE-2012-0782
+B) CVE-2013-2551
+C) CVE-2011-1996
+D) CVE-2010-0249
+
+450. Which CVE is mapped to exploit/windows/fileformat/ms14_017_rce?
+A) CVE-2014-1761
+B) CVE-2013-2551
+C) CVE-2017-1000353
+D) CVE-2016-0021
+
+451. exploit/linux/local/abrt_hash_abuse is for which CVE?
+A) CVE-2018-10822
+B) CVE-2015-3315
+C) CVE-2012-0158
+D) CVE-2016-0137
+
+452. The Metasploit module exploit/windows/browser/java_cmm is associated with which CVE?
+A) CVE-2012-0507
+B) CVE-2018-1000525
+C) CVE-2018-10562
+D) CVE-2012-4969
+
+453. Which Metasploit module exploits CVE-2017-8464?
+A) exploit/windows/fileformat/lnk_setinfotip
+B) exploit/windows/smb/ms17_010_eternalblue
+C) exploit/windows/http/intel_amt_redirect_port
+D) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+
+454. exploit/windows/browser/ms12_063_mediasetmemorychunk maps to which CVE?
+A) CVE-2012-4969
+B) CVE-2017-10271
+C) CVE-2015-1641
+D) CVE-2015-2855
+
+455. The module exploit/windows/fileformat/ms17_010_word_rce is for which CVE?
+A) CVE-2017-0199
+B) CVE-2016-0137
+C) CVE-2017-0143
+D) CVE-2013-3906
+
+456. Which CVE is matched to exploit/unix/webapp/zabbix_script_exec?
+A) CVE-2017-16720
+B) CVE-2013-3628
+C) CVE-2016-0137
+D) CVE-2014-6352
+
+457. exploit/windows/browser/ms15_034_ulonglongadd matches which CVE?
+A) CVE-2015-1635
+B) CVE-2011-0096
+C) CVE-2017-1000353
+D) CVE-2016-7255
+
+458. The Metasploit module exploit/windows/fileformat/ms12_064_winword_rce targets which CVE?
+A) CVE-2012-2539
+B) CVE-2017-0199
+C) CVE-2011-0096
+D) CVE-2010-2568
+
+459. Which module targets CVE-2014-7236?
+A) exploit/unix/webapp/foswiki_command_injection
+B) exploit/unix/ftp/vsftpd_234_backdoor
+C) exploit/windows/smb/ms08_067_netapi
+D) exploit/windows/fileformat/ms12_027_mscomctl_bof
+
+460. exploit/windows/fileformat/ms15_057_rtf is for which CVE?
+A) CVE-2015-1641
+B) CVE-2012-0782
+C) CVE-2016-2853
+D) CVE-2013-3628
+
+461. Which CVE does exploit/unix/webapp/wordpress_wp_slideshowgallery_upload exploit?
+A) CVE-2014-5460
+B) CVE-2016-0137
+C) CVE-2011-2523
+D) CVE-2013-3628
+
+462. The module exploit/windows/browser/ms14_037_svg_dasharray targets which CVE?
+A) CVE-2014-1791
+B) CVE-2015-1641
+C) CVE-2013-3906
+D) CVE-2012-0782
+
+463. Which Metasploit module is for CVE-2012-0782?
+A) exploit/unix/webapp/wordpress_mailpress_rce
+B) exploit/unix/webapp/tomcat_mgr_upload
+C) exploit/windows/smb/ms17_010_doublepulsar
+D) exploit/linux/local/dirtycow
+
+464. exploit/windows/smb/ms17_010_eternalromance matches which CVE?
+A) CVE-2017-0145
+B) CVE-2013-3628
+C) CVE-2010-3528
+D) CVE-2016-2853
+
+465. The Metasploit module exploit/windows/fileformat/ms13_085_rtf_pfragments maps to which CVE?
+A) CVE-2013-3906
+B) CVE-2015-1641
+C) CVE-2017-16720
+D) CVE-2016-7255
+
+466. Which CVE does exploit/windows/fileformat/ms14_060_sandworm exploit?
+A) CVE-2014-4114
+B) CVE-2014-1761
+C) CVE-2011-5046
+D) CVE-2012-0782
+
+467. exploit/windows/fileformat/ms12_027_mscomctl_bof is for which CVE?
+A) CVE-2012-0158
+B) CVE-2017-0143
+C) CVE-2012-0782
+D) CVE-2015-3636
+
+468. The module exploit/multi/http/atlassian_crowd_widget_connector targets which CVE?
+A) CVE-2019-3396
+B) CVE-2012-0158
+C) CVE-2018-20443
+D) CVE-2010-0249
+
+469. Which Metasploit module maps to CVE-2011-5046?
+A) exploit/unix/ftp/proftpd_133c_backdoor
+B) exploit/windows/fileformat/ms14_060_sandworm
+C) exploit/linux/local/abrt_hash_abuse
+D) exploit/windows/browser/ms13_009_ie_slayage
+
+470. exploit/windows/browser/ms13_090_cardspacesigninhelper exploits which CVE?
+A) CVE-2013-3918
+B) CVE-2017-8464
+C) CVE-2015-2526
+D) CVE-2013-2551
+
+471. Which Metasploit module exploits CVE-2012-5076?
+A) exploit/windows/browser/java_jre18_glassfish
+B) exploit/unix/webapp/zabbix_script_exec
+C) exploit/windows/http/ms15_034_ulonglongadd
+D) exploit/windows/fileformat/ms14_017_rce
+
+472. exploit/windows/browser/ms10_046_shortcut_icon_dllloader is mapped to which CVE?
+A) CVE-2010-2568
+B) CVE-2012-0158
+C) CVE-2018-10822
+D) CVE-2013-2551
+
+473. The module exploit/unix/ftp/proftpd_133c_backdoor exploits which CVE?
+A) CVE-2011-5046
+B) CVE-2010-0806
+C) CVE-2014-1934
+D) CVE-2016-0137
+
+474. Which CVE is for exploit/linux/local/getcap_root?
+A) CVE-2016-2853
+B) CVE-2016-0137
+C) CVE-2014-6271
+D) CVE-2017-16720
+
+475. exploit/windows/http/schannel_ms14_066 is for which CVE?
+A) CVE-2014-6321
+B) CVE-2011-0096
+C) CVE-2018-1000525
+D) CVE-2017-7494
+
+476. The Metasploit module exploit/windows/office/ms_office_oleobj_code_exec maps to which CVE?
+A) CVE-2017-11826
+B) CVE-2016-7255
+C) CVE-2017-16720
+D) CVE-2012-1172
+
+477. exploit/windows/fileformat/lnk_setinfotip targets which CVE?
+A) CVE-2017-8464
+B) CVE-2013-3906
+C) CVE-2012-1834
+D) CVE-2011-2523
+
+478. Which CVE is mapped to exploit/multi/elasticsearch/script_mvel_rce?
+A) CVE-2015-1427
+B) CVE-2011-2523
+C) CVE-2013-0156
+D) CVE-2014-1761
+
+479. The module exploit/unix/ftp/proftpd_modcopy_exec exploits which CVE?
+A) CVE-2015-3306
+B) CVE-2016-2336
+C) CVE-2015-3636
+D) CVE-2012-0158
+
+480. Which Metasploit module targets CVE-2017-13772?
+A) exploit/multi/http/tp_link_pwd_auth
+B) exploit/windows/fileformat/ms15_080_font
+C) exploit/unix/webapp/atutor_sqli_file_write
+D) exploit/windows/fileformat/ms16_121_rtf
+
+481. exploit/unix/webapp/liferay_portal_groovy is for which CVE?
+A) CVE-2015-8849
+B) CVE-2012-0782
+C) CVE-2011-2523
+D) CVE-2016-10033
+
+482. The Metasploit module exploit/windows/fileformat/ms15_080_font is for which CVE?
+A) CVE-2015-2433
+B) CVE-2018-20443
+C) CVE-2017-15718
+D) CVE-2012-5076
+
+483. Which module exploits CVE-2018-10562?
+A) exploit/linux/http/wioterminal_password_rce
+B) exploit/windows/fileformat/ms10_087_rtf_pfragments_bof
+C) exploit/windows/smb/ms10_054_smb2_negotiate_func_index
+D) exploit/windows/http/ms15_034_ulonglongadd
+
+484. exploit/multi/http/php_formidable_upload_exec matches which CVE?
+A) CVE-2016-10033
+B) CVE-2013-2551
+C) CVE-2010-2568
+D) CVE-2017-8464
+
+485. The module exploit/windows/fileformat/adobe_cooltype_sing targets which CVE?
+A) CVE-2010-2883
+B) CVE-2017-0144
+C) CVE-2017-7494
+D) CVE-2011-2523
+
+486. Which CVE does exploit/windows/rdp/cve_2019_0708_bluekeep_rce exploit?
+A) CVE-2017-0144
+B) CVE-2010-3333
+C) CVE-2019-0708
+D) CVE-2015-3636
+
+487. exploit/unix/webapp/zabbix_script_exec matches which CVE?
+A) CVE-2013-3628
+B) CVE-2017-8570
+C) CVE-2016-2853
+D) CVE-2017-16720
+
+488. The Metasploit module exploit/windows/smb/ms15_061_kerberos is for which CVE?
+A) CVE-2015-2526
+B) CVE-2012-5076
+C) CVE-2014-1761
+D) CVE-2015-3315
+
+489. Which Metasploit module exploits CVE-2017-16720?
+A) exploit/linux/http/advantech_webaccess_dashboard_upload
+B) exploit/windows/fileformat/ms12_064_winword_rce
+C) exploit/multi/http/zimbra_xxe
+D) exploit/linux/local/abrt_hash_abuse
+
+490. exploit/windows/fileformat/ms12_064_winword_rce targets which CVE?
+A) CVE-2012-2539
+B) CVE-2017-16720
+C) CVE-2015-3636
+D) CVE-2011-1996
+
+491. Which module is for CVE-2012-2539?
+A) exploit/windows/fileformat/ms12_064_winword_rce
+B) exploit/windows/browser/ms11_050_mshtml_cobjectelement
+C) exploit/unix/webapp/phpmyadmin_pma_setup_rce
+D) exploit/windows/smb/ms08_067_netapi
+
+492. exploit/windows/browser/ms12_037_same_id targets which CVE?
+A) CVE-2012-1875
+B) CVE-2016-2336
+C) CVE-2012-0782
+D) CVE-2015-3636
+
+493. Which Metasploit module exploits CVE-2014-1761?
+A) exploit/windows/fileformat/ms14_017_rce
+B) exploit/windows/rdp/cve_2019_0708_bluekeep_rce
+C) exploit/windows/smb/ms15_061_kerberos
+D) exploit/multi/http/tp_link_pwd_auth
+
+494. exploit/unix/webapp/foswiki_command_injection maps to which CVE?
+A) CVE-2014-7236
+B) CVE-2011-5046
+C) CVE-2017-10271
+D) CVE-2012-5076
+
+495. The module exploit/windows/fileformat/ms10_087_rtf_pfragments_bof is mapped to which CVE?
+A) CVE-2010-3333
+B) CVE-2015-3315
+C) CVE-2016-2853
+D) CVE-2014-1761
+
+496. Which CVE does exploit/windows/fileformat/ms15_100_unicode_path exploit?
+A) CVE-2015-2545
+B) CVE-2015-3636
+C) CVE-2017-16720
+D) CVE-2017-8464
+
+497. exploit/unix/webapp/tikiwiki_graph_formula_exec corresponds to which CVE?
+A) CVE-2012-1172
+B) CVE-2016-2853
+C) CVE-2014-6321
+D) CVE-2010-3528
+
+498. Which Metasploit module is for CVE-2016-7255?
+A) exploit/windows/fileformat/ms16_121_rtf
+B) exploit/windows/browser/ms14_064_ole_code_execution
+C) exploit/windows/fileformat/ms17_010_word_rce
+D) exploit/windows/browser/ms15_080_font
+
+499. The Metasploit module exploit/windows/browser/flash_usage_after_free targets which CVE?
+A) CVE-2018-4878
+B) CVE-2015-2855
+C) CVE-2012-1172
+D) CVE-2017-13772
+
+500. exploit/windows/fileformat/ms13_085_rtf_pfragments exploits which CVE?
+A) CVE-2013-3906
+B) CVE-2016-2336
+C) CVE-2012-1823
+D) CVE-2015-1641

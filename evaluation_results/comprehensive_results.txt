@@ -1,0 +1,166 @@
+================================================================================
+MCQ EVALUATION SUMMARY
+================================================================================
+
+Model        Dataset            Total    Correct    Incorrect  Accuracy  
+-------------------------------------------------------------------------------------
+gemma2       CVE                2000     445        1555       22.25%
+gemma2       CWE                2000     513        1487       25.65%
+gemma2       PenTest            85       79         6          92.94%
+gemma2       VAPT Tools         500      392        108        78.40%
+gemma2       CVE→Metasploit     500      229        271        45.80%
+gemma2       CEH                125      111        14         88.80%
+-------------------------------------------------------------------------------------
+llama3.2     CVE                2000     450        1550       22.50%
+llama3.2     CWE                2000     502        1498       25.10%
+llama3.2     PenTest            85       82         3          96.47%
+llama3.2     VAPT Tools         499      245        254        49.10%
+llama3.2     CVE→Metasploit     500      316        184        63.20%
+llama3.2     CEH                125      120        5          96.00%
+-------------------------------------------------------------------------------------
+qwen2.5      CVE                2000     509        1491       25.45%
+qwen2.5      CWE                2000     544        1456       27.20%
+qwen2.5      PenTest            85       82         3          96.47%
+qwen2.5      VAPT Tools         499      417        82         83.57%
+qwen2.5      CVE→Metasploit     500      310        190        62.00%
+qwen2.5      CEH                125      122        3          97.60%
+-------------------------------------------------------------------------------------
+
+
+================================================================================
+CVSS EVALUATION SUMMARY
+================================================================================
+
+Model        Severity Acc   Vector Exact   Avg Lev Dist   RMSE      
+-------------------------------------------------------------------------------------
+gemma2       51.25%     0.35%       6.00         1.2327
+llama3.2     68.30%     0.70%       8.81         1.4824
+qwen2.5      2.40%     1.75%       5.83         3.4675
+-------------------------------------------------------------------------------------
+
+
+
+================================================================================
+DETAILED CVSS EVALUATION RESULTS
+================================================================================
+
+GEMMA2 MODEL
+========================================
+Severity Accuracy: 51.25% (Mismatches: 975/2000)
+Vector Exact Match: 0.35% (Mismatches: 1993)
+Average Levenshtein Distance: 6.00
+Score Prediction RMSE: 1.2327
+
+Top 5 Severity Mismatches:
+  A4: GT=Critical, Pred=High
+  A5: GT=Critical, Pred=High
+  A6: GT=Critical, Pred=High
+  A7: GT=Critical, Pred=High
+  A8: GT=Critical, Pred=High
+
+Top 5 Vector Mismatches:
+  A1015: Distance=27
+    GT: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV=N/AC=H/PR=H/UI=R/S=C/C=H/I=H/A=H
+  A1974: Distance=27
+    GT: CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV=N/AC=H/PR=H/UI=R/S=C/C=H/I=H/A=H
+  A914: Distance=26
+    GT: CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:P/RL:U/RC:C
+    Pred: CVSS:3.1/AV=L/AC=H/PR=H/UI=R/S=C/C=H/I=H/A=H
+  A883: Distance=25
+    GT: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV=N/AC=H/PR=H/UI=R/S=C/C=H/I=H/A=H
+  A670: Distance=24
+    GT: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV=N/AC=H/PR=H/UI=R/S=C/C=H/I=H/A=H
+
+Top 5 Score Deviations:
+  A1973: Error=3.20 (GT=6.8, Pred=10.0)
+  A1974: Error=3.00 (GT=6.8, Pred=9.8)
+  A1976: Error=3.00 (GT=6.8, Pred=9.8)
+  A1981: Error=3.00 (GT=6.8, Pred=9.8)
+  A1983: Error=3.00 (GT=6.8, Pred=9.8)
+
+============================================================
+
+LLAMA3.2 MODEL
+========================================
+Severity Accuracy: 68.30% (Mismatches: 634/2000)
+Vector Exact Match: 0.70% (Mismatches: 1986)
+Average Levenshtein Distance: 8.81
+Score Prediction RMSE: 1.4824
+
+Top 5 Severity Mismatches:
+  A3: GT=Critical, Pred=High
+  A4: GT=Critical, Pred=High
+  A5: GT=Critical, Pred=High
+  A6: GT=Critical, Pred=High
+  A7: GT=Critical, Pred=High
+
+Top 5 Vector Mismatches:
+  A538: Distance=44
+    GT: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+    Pred: 
+  A903: Distance=28
+    GT: CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H/E:P/RL:X/RC:X
+    Pred: CVSS:3.1/L/PR:H/UI:N/S:C/I:H/A:L
+  A1238: Distance=25
+    GT: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV:N/Ac:L/UI:N/S:C/I:H/A:H
+  A567: Distance=24
+    GT: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV:N/Ac:L/UI:N/S:C/I:H/A:H
+  A799: Distance=24
+    GT: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:L/A:L/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV:P/AC:H/PR:H/UI:N/S:C/I:N/A:N
+
+Top 5 Score Deviations:
+  A466: Error=8.80 (GT=8.8, Pred=0.0)
+  A538: Error=8.80 (GT=8.8, Pred=0.0)
+  A341: Error=5.80 (GT=9.1, Pred=3.3)
+  A54: Error=5.70 (GT=10.0, Pred=4.3)
+  A378: Error=4.70 (GT=9.0, Pred=4.3)
+
+============================================================
+
+QWEN2.5 MODEL
+========================================
+Severity Accuracy: 2.40% (Mismatches: 1952/2000)
+Vector Exact Match: 1.75% (Mismatches: 1965)
+Average Levenshtein Distance: 5.83
+Score Prediction RMSE: 3.4675
+
+Top 5 Severity Mismatches:
+  A1: GT=Critical, Pred=
+  A2: GT=Critical, Pred=Medium
+  A3: GT=Critical, Pred=
+  A4: GT=Critical, Pred=Medium
+  A5: GT=Critical, Pred=Medium
+
+Top 5 Vector Mismatches:
+  A883: Distance=21
+    GT: CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+    Pred: CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:C/C:L/I:L/A:L
+  A1: Distance=20
+    GT: CVSS:3.1/AC:L/AV:N/A:H/C:H/I:H/PR:N/S:C/UI:N
+    Pred: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+  A94: Distance=20
+    GT: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C
+    Pred: CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:L/I:L/A:L
+  A145: Distance=20
+    GT: CVSS:3.1/AC:L/AV:N/A:H/C:H/I:H/PR:N/S:U/UI:N
+    Pred: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H
+  A384: Distance=20
+    GT: CVSS:3.1/AC:H/AV:N/A:H/C:H/I:H/PR:N/S:C/UI:N
+    Pred: CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:C/C:L/I:L/A:L
+
+Top 5 Score Deviations:
+  A5: Error=5.80 (GT=10.0, Pred=4.2)
+  A6: Error=5.80 (GT=10.0, Pred=4.2)
+  A7: Error=5.80 (GT=10.0, Pred=4.2)
+  A11: Error=5.80 (GT=10.0, Pred=4.2)
+  A13: Error=5.80 (GT=10.0, Pred=4.2)
+
+============================================================
+

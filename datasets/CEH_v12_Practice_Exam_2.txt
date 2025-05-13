@@ -1,0 +1,749 @@
+1. What is a primary objective of penetration testing?
+A) To deface websites
+B) To simulate an attacker and find vulnerabilities before real attackers do
+C) To upload malware to a system
+D) To create backups
+
+2. Which tool is primarily used for OS fingerprinting?
+A) Nmap
+B) Hashcat
+C) Hydra
+D) Burp Suite
+
+3. What is the main goal of the reconnaissance phase?
+A) Establish network connectivity
+B) Gather as much information as possible about a target
+C) Patch systems remotely
+D) Run exploits
+
+4. Which is a common technique for privilege escalation?
+A) Process injection
+B) Port scanning
+C) Packet sniffing
+D) Banner grabbing
+
+5. What is the best way to protect against brute force attacks?
+A) Use default credentials
+B) Implement account lockout policies and strong passwords
+C) Store hashes in /etc/passwd
+D) Share admin accounts
+
+6. Which port does HTTPS use by default?
+A) 25
+B) 443
+C) 110
+D) 53
+
+7. What is session hijacking?
+A) Disabling user authentication
+B) Taking control over an active user session
+C) Sniffing HTTP headers
+D) Fingerprinting browsers
+
+8. Which scanning technique sends a FIN packet and expects no response if the port is open?
+A) SYN scan
+B) FIN scan
+C) UDP scan
+D) ACK scan
+
+9. Which protocol uses port 23?
+A) SSH
+B) Telnet
+C) DNS
+D) RDP
+
+10. What is a rainbow table used for?
+A) Brute-force password login
+B) Precomputed hashes to reverse password hashes quickly
+C) Tracking IP addresses
+D) Encrypting email
+
+11. Which of these is a good defense against SQL injection?
+A) Storing data in plaintext
+B) Server-side input validation and parameterized queries
+C) Disabling firewalls
+D) Using HTTP over SSL
+
+12. What is an example of a command injection payload on a web application?
+A) ; cat /etc/passwd
+B) <script>alert(1);</script>
+C) http://example.com/page?id=1
+D) SELECT * FROM users
+
+13. What does “least privilege” mean in user account management?
+A) Granting users the minimal permissions required for their job
+B) Enabling all network ports
+C) Sharing credentials
+D) Using only admin accounts
+
+14. What tool is often used for wireless network auditing?
+A) Aircrack-ng
+B) Medusa
+C) Nikto
+D) sqlmap
+
+15. Which attack uses email to persuade users to reveal sensitive information?
+A) ARP poisoning
+B) Phishing
+C) Port scanning
+D) OS fingerprinting
+
+16. What is the function of an Intrusion Prevention System (IPS)?
+A) Detect and block malicious traffic in real time
+B) Encrypt all network traffic
+C) Filter spam emails
+D) Patch vulnerabilities
+
+17. What is a SYN scan designed to do?
+A) Complete the TCP three-way handshake
+B) Identify open TCP ports without full connections
+C) Attack only UDP services
+D) Scan DNS servers
+
+18. What type of malware spies on user activity and steals information?
+A) Ransomware
+B) Worm
+C) Spyware
+D) Rootkit
+
+19. Which header is best for helping to prevent XSS and clickjacking?
+A) X-Frame-Options
+B) User-Agent
+C) Accept-Encoding
+D) From
+
+20. What tool is commonly used to create and manage reverse shells in penetration tests?
+A) Hydra
+B) Metasploit
+C) Wireshark
+D) Nikto
+
+21. Which Linux command lists open files and network sockets?
+A) ps
+B) lsof
+C) uname
+D) whoami
+
+22. What kind of attack involves flooding a network with ICMP Echo requests?
+A) Smurf attack
+B) SYN flood
+C) XSS
+D) SQL Injection
+
+23. What does “salting” passwords achieve?
+A) Weakens hashes
+B) Makes hashes unique even for identical passwords
+C) Changes the algorithm to MD5
+D) Removes audit logs
+
+24. Which protocol uses port 69?
+A) SNMP
+B) TFTP
+C) HTTPS
+D) SSH
+
+25. What is the effect of a successful SQL injection attack?
+A) Denial of service
+B) Unauthorized database manipulation or data leakage
+C) Increased bandwidth
+D) Kernel panic
+
+26. What is a “rogue access point”?
+A) Official Wi-Fi
+B) Unauthorized wireless device used to intercept or redirect traffic
+C) Wired firewall
+D) Email phishing server
+
+27. What is the name of the attack where DNS requests are manipulated to send users to malicious sites?
+A) Pharming
+B) Pass-the-hash
+C) Buffer overflow
+D) Credential stuffing
+
+28. What is the primary function of a SIEM system?
+A) Aggregate, analyze, and correlate security logs/events
+B) Crack user passwords
+C) Block emails
+D) Encrypt file shares
+
+29. What is a buffer overflow vulnerability?
+A) Overwriting the bounds of an allocated memory buffer to execute arbitrary code
+B) Weak encryption
+C) Default passwords
+D) Session reuse
+
+30. Which tool is used for open-source intelligence (OSINT)?
+A) Nikto
+B) Maltego
+C) Reaver
+D) Hydra
+
+31. What does the Windows command “ipconfig” display?
+A) Active processes
+B) IP configuration information
+C) Registry keys
+D) Running services
+
+32. What does “whitelisting” mean in application security?
+A) Rejecting all applications by default
+B) Allowing only pre-approved applications to run
+C) Stopping all network traffic
+D) Disabling logs
+
+33. What type of attack is “vishing”?
+A) Voice phishing using phone calls
+B) Visual cryptography
+C) Video manipulation
+D) VLAN hopping
+
+34. What is the main purpose of cryptography?
+A) Making data readable to everyone
+B) Securing data through confidentiality, integrity, authentication
+C) Increasing file sizes
+D) Enabling faster data transfer
+
+35. Which web vulnerability allows attackers to cause users to take unwanted actions?
+A) CSRF (Cross Site Request Forgery)
+B) XSS
+C) Buffer overflow
+D) ARP poisoning
+
+36. What type of scan is best for stealth and evading detection?
+A) Connect scan
+B) UDP scan
+C) Idle/Zombie scan
+D) Fragmented packet scan
+
+37. What is the “man trap” in physical security?
+A) Electrical fence
+B) Two-door access control system that prevents tailgating
+C) DNS sinkhole
+D) Emergency shutdown
+
+38. What is a botnet?
+A) Compromised computers controlled as a group by an attacker
+B) Firewall subnet
+C) Email relay server
+D) Public DNS server
+
+39. Which of the following is a sign of successful privilege escalation?
+A) Unauthorized access to admin-only functions
+B) Fewer user accounts
+C) Lower CPU usage
+D) Increased network latency
+
+40. What is a key feature of multi-factor authentication (MFA)?
+A) Requires two or more different authentication mechanisms
+B) Rotates passwords weekly
+C) Disables HTTPS
+D) Blocks DNS resolution
+
+41. How can an attacker exploit directory traversal?
+A) By requesting files outside web root using ../ sequences
+B) Passing hashed credentials
+C) Phishing via email
+D) Exploiting ARP
+
+42. What is an evil twin attack?
+A) Deauthenticating Wi-Fi clients to force connection to a rogue AP
+B) SYN flooding a switch
+C) IPsec tunneling
+D) Phishing through social accounts
+
+43. What does a “false positive” mean in vulnerability analysis?
+A) System fails to detect a real threat
+B) System flags a benign event as malicious
+C) Password change enforcement
+D) Strong encryption
+
+44. What is the risk of using HTTP instead of HTTPS?
+A) Data is transmitted in cleartext and can be intercepted or modified
+B) Slower performance
+C) Faster encryption
+D) No risk
+
+45. What is the best countermeasure for pass-the-hash attacks?
+A) Enforce strong password policy
+B) Restrict lateral movement and use unique local admin credentials
+C) Use only 4-digit PINs
+D) Disable MFA
+
+46. Which tool allows testing for subdomain takeovers?
+A) Subjack
+B) Nikto
+C) Nessus
+D) netstat
+
+47. What is credential stuffing?
+A) Using stolen username-password pairs to attempt logins across multiple sites
+B) Sending large numbers of SYN packets
+C) Sniffing network traffic for cleartext passwords
+D) Session hijacking
+
+48. What is the role of a honeypot?
+A) Entice attackers and monitor their actions without risking production systems
+B) Encrypt log files
+C) Patch vulnerabilities automatically
+D) Decrypt VPN tunnels
+
+49. Which tool is used for capturing WPA/WPA2 handshakes?
+A) Aircrack-ng
+B) Hydra
+C) sqlmap
+D) Burp Suite
+
+50. Which cloud security risk involves mistakenly exposing storage to the public?
+A) Misconfiguration of storage buckets
+B) XSS in VM consoles
+C) ARP poisoning
+D) Rootkit injection
+
+51. What is the risk if session cookies are not marked “Secure” and “HttpOnly”?
+A) They cannot be set to expire
+B) They are vulnerable to theft via XSS or sent in cleartext over HTTP
+C) They block password resets
+D) They strengthen SSL negotiation
+
+52. What’s a primary goal of network segmentation?
+A) Reduce broadcast domain size and isolate sensitive assets
+B) Encrypt all data by default
+C) Increase single points of failure
+D) Disable DNS
+
+53. What is a common way to exploit weak cryptographic hash functions?
+A) Collision attacks
+B) Brute-force only
+C) Packet fragmentation
+D) VLAN hopping
+
+54. Which port is used by LDAP by default?
+A) 80
+B) 389
+C) 443
+D) 445
+
+55. What is the benefit of using an SIEM platform?
+A) Correlate security logs/events for incident detection and response
+B) Host Wi-Fi guests
+C) Lower server cost
+D) Automate file transfers
+
+56. What is polymorphic malware?
+A) Malware that changes its code to evade detection
+B) Only infects Windows XP
+C) Encrypts user emails
+D) Slows down logs
+
+57. What does the “chmod 700” command do?
+A) No one has access
+B) Owner has full access; no access for others
+C) All users have read/write
+D) Only root can execute
+
+58. Which phase comes before covering tracks in hacking?
+A) Reporting
+B) Maintaining access
+C) Social engineering
+D) Reconnaissance
+
+59. What is used to encrypt contents of email messages?
+A) PGP/GPG
+B) Telnet
+C) ICMP
+D) FTP
+
+60. What is an indication of successful DNS tunneling?
+A) Unusual DNS queries carrying non-DNS data
+B) Kernel panic
+C) Lower file transfer speeds
+D) Disabled NTP
+
+61. What is a key characteristic of ransomware?
+A) Records network traffic
+B) Encrypts files and demands payment for decryption
+C) Creates user accounts
+D) Launches SYN floods
+
+62. Which of the following tools is used for password cracking specifically on Linux shadow files?
+A) Hydra
+B) John the Ripper
+C) Burp Suite
+D) Lynis
+
+63. What is meant by "pivoting" during a penetration test?
+A) Moving laterally to access additional systems from a compromised host
+B) Running a scan on port 80 only
+C) Resetting user passwords
+D) Changing default routes
+
+64. Which port does SMTP use by default?
+A) 25
+B) 110
+C) 143
+D) 3389
+
+65. What is the "root" user in Unix/Linux systems?
+A) Network guest user
+B) Superuser with full system privileges
+C) Backup account
+D) Service account
+
+66. What is a watering hole attack?
+A) Sending malicious emails to executives
+B) Infecting websites commonly visited by targeted victims
+C) ARP cache poisoning
+D) TCP sequence guessing
+
+67. What type of malware is designed to gather usernames and passwords by recording keystrokes?
+A) Keylogger
+B) Ransomware
+C) Virus
+D) Worm
+
+68. Which is the biggest risk of hardcoding credentials in an application?
+A) Application runs faster
+B) Credentials can be extracted and misused if code is accessed
+C) Greater encryption strength
+D) None
+
+69. What is the correct purpose of the tool “dnsenum”?
+A) Password auditing
+B) DNS enumeration for zones, hosts, and subdomains
+C) Web server fuzzing
+D) Firewall detection
+
+70. Which is a best practice for cloud IAM security?
+A) Use shared admin accounts
+B) Implement role-based access control and least privilege
+C) Disable audit logs
+D) Turn off encryption
+
+71. What is a common way social engineers gather information for attacks?
+A) Reviewing public social media and profiles
+B) Performing port scans
+C) Email spoofing
+D) DDoS attacks
+
+72. What is the outcome of a successful pass-the-ticket attack?
+A) Escalates to kernel mode
+B) Allows lateral movement by reusing Kerberos tickets
+C) Locks out users
+D) Compresses log files
+
+73. Which service is commonly targeted for brute-forcing in remote desktop environments?
+A) FTP
+B) SSH
+C) RDP
+D) SNMP
+
+74. What is a common indicator of a successful ARP poisoning attack?
+A) Traffic intended for another host is seen by the attacker
+B) Passwords are changed
+C) DNS records are updated
+D) Logs show buffer overflow warnings
+
+75. What does “chmod 600 private_key” do?
+A) Lets everyone write to the file
+B) Owner can read and write; others have no access
+C) File is deleted
+D) File is locked by the kernel
+
+76. Which utility is often used for process enumeration on Windows?
+A) Task Manager
+B) Wireshark
+C) ifconfig
+D) lsmod
+
+77. What is an SUID bit on a Linux file?
+A) Sets a sticky bit
+B) Allows files to be executed with the permissions of the file owner
+C) Encrypts the file
+D) Increases log verbosity
+
+78. Which protocol is vulnerable to cleartext credential capture?
+A) HTTPS
+B) SSH
+C) Telnet
+D) SFTP
+
+79. What is the primary function of a demilitarized zone (DMZ)?
+A) Host publicly accessible systems while isolating them from an internal network
+B) Encrypt internal emails
+C) Prevent VLAN hopping
+D) Auto-update firmware
+
+80. What is clickjacking?
+A) Tricking users into clicking on something different from what they perceive
+B) Redirecting DNS queries
+C) Spoofing SSH keys
+D) Lateral movement
+
+81. Which command is used to display running services in Windows?
+A) services.msc
+B) route print
+C) ipconfig
+D) netstat
+
+82. Why are “security groups” important in cloud infrastructure?
+A) Control inbound/outbound traffic at the instance level
+B) Install root certificates
+C) Enforce password expiry
+D) Monitor CPU
+
+83. What is the difference between a worm and a virus?
+A) Worms are only on Windows
+B) Worms self-replicate across networks; viruses require host files to spread
+C) Viruses are for emails only
+D) No difference
+
+84. How does an attacker exploit “insecure deserialization”?
+A) Manipulates serialized data to execute malicious code
+B) SQL injection
+C) Cracks hashes
+D) ARP spoofing
+
+85. Which tool is specifically used for Burp Suite’s automated web scanning?
+A) Intruder
+B) Repeater
+C) Scanner
+D) Decoder
+
+86. What is the risk of weak input validation on websites?
+A) Injection attacks like SQLi and XSS
+B) Stronger passwords
+C) Poor bandwidth
+D) Better logging
+
+87. Which of these provides secure, encrypted file transfer?
+A) FTP
+B) SFTP
+C) Telnet
+D) HTTP
+
+88. What is a logic bomb?
+A) Code that activates and causes harm when specific conditions are met
+B) Password hash cracker
+C) Key generator
+D) DNS enforcer
+
+89. What port does Kerberos use by default?
+A) 88
+B) 69
+C) 443
+D) 5900
+
+90. What is the function of Netcat (nc)?
+A) General-purpose networking utility for TCP/UDP connections, port scanning, and banner grabbing
+B) Web password auditor
+C) Firewall monitor
+D) SQL injection tool
+
+91. What is a spear phishing attack?
+A) Phishing attack targeting a specific individual or organization
+B) Broadcast phishing
+C) ARP poisoning
+D) Overloading DNS servers
+
+92. Which tool assists with packet crafting and network fuzzing?
+A) hping3
+B) sqlmap
+C) nikto
+D) hydra
+
+93. What is the main benefit of two-factor authentication?
+A) Increases compliance paperwork
+B) Adds a layer of security by requiring something you know AND something you have/are
+C) Disables backups
+D) Weakens passwords
+
+94. What is OSINT?
+A) Open-source intelligence gathered from public sources
+B) OS fingerprint scanner
+C) Internal private logs
+D) Access control matrix
+
+95. Which practice should be avoided for secure SSH configuration?
+A) PermitRootLogin yes
+B) Strong key authentication
+C) Disabling password authentication
+D) Changing default port
+
+96. What is the main risk of allowing outbound SMB traffic from workstations?
+A) Exposes credentials to theft via SMB relay
+B) Slows down the network
+C) Increases VPN strength
+D) Increases CPU usage
+
+97. What is a side-channel attack?
+A) Exploiting information gained from physical implementation (timing, power, EM radiation)
+B) SQL injection
+C) DNS spoofing
+D) VLAN hopping
+
+98. Which of these is a blue team activity?
+A) Security monitoring and incident response
+B) Penetration testing
+C) Crafting zero-day exploits
+D) Social engineering
+
+99. Which open-source tool enumerates usernames, shares, and services via SMB?
+A) enum4linux
+B) hashcat
+C) hydra
+D) burp
+
+100. Which item is most affected by a ransomware attack?
+A) Availability of data/files
+B) Web application session limits
+C) Network segmenting
+D) DNS resolution speed
+
+101. What is pass-the-hash?
+A) Authentication using stolen hashed passwords
+B) SQLi via hashes
+C) DDoS via hash collision
+D) SSH brute force
+
+102. Which utility is often used to enumerate subdomains?
+A) Sublist3r
+B) Gobuster
+C) Aircrack-ng
+D) John the Ripper
+
+103. What is the benefit of network segmentation?
+A) Limits lateral movement and reduces attack surface
+B) Increases scan time
+C) Weakens authentication
+D) Increases ARP poison
+
+104. What is an SSRF (Server-Side Request Forgery) attack?
+A) Attacker tricks the server into sending requests to internal/external resources
+B) XSS on a web page
+C) Deauthentication via WiFi
+D) Brute-force RDP
+
+105. Which file contains user password hashes in Linux?
+A) /etc/passwd
+B) /etc/shadow
+C) /var/log/auth.log
+D) /etc/fstab
+
+106. What is cryptojacking?
+A) Exploiting systems to mine cryptocurrency without consent
+B) Cracking SSL certs
+C) FTP brute force
+D) Keylogging
+
+107. Which is the best way to protect against keystroke loggers?
+A) Up-to-date antivirus and endpoint detection tools
+B) Use only Linux
+C) Encrypt WiFi
+D) Use port 443
+
+108. What is the main use of the tool Reaver?
+A) Brute-forcing WPS on Wi-Fi networks
+B) RDP session hijacking
+C) SQL injection
+D) DNS enumeration
+
+109. How can you prevent clickjacking in modern browsers?
+A) Set X-Frame-Options to DENY or SAMEORIGIN
+B) Use only HTTP
+C) Turn off SSL
+D) Use short passwords
+
+110. What is the default port for MySQL?
+A) 3306
+B) 1521
+C) 21
+D) 8080
+
+111. What is the primary goal of penetration testing reporting?
+A) Document findings, describe impact, and recommend remediation
+B) Publicly embarrass the client
+C) Hide vulnerabilities
+D) Brag on social media
+
+112. What is a primary risk of weak access controls in cloud environments?
+A) Unauthorized users gain access to sensitive resources
+B) Increases backups
+C) Disables multi-factor authentication
+D) Adds network latency
+
+113. Why should logs be protected from unauthorized changes?
+A) Maintain integrity for forensics and compliance
+B) Increase network speed
+C) Enhance WiFi encryption
+D) Prevent SSRF
+
+114. What is commonly used to tunnel traffic through firewalls using allowed protocols?
+A) VPN or SSH tunnels
+B) VLANs
+C) SMTP relays
+D) ICMP flooding
+
+115. Why are default SNMP community strings a security risk?
+A) They are well-known and allow information disclosure or remote changes
+B) They block DNS recursion
+C) They log all traffic
+D) They encrypt all messages
+
+116. What does "shoulder surfing" refer to?
+A) Observing someone’s private information over their shoulder
+B) SQL injection
+C) Firewall log review
+D) Creating fake WiFi
+
+117. What is the function of the Linux “sudo” command?
+A) Allows permitted users to execute commands as root or another user
+B) Encrypts shell sessions
+C) Switches user password
+D) Opens all ports
+
+118. In web apps, what is IDOR (Insecure Direct Object Reference)?
+A) Users access objects or data by modifying references in requests (e.g., URLs)
+B) Bad password hash
+C) Buffer overflow
+D) DDoS on HTTP
+
+119. What is the primary benefit of using HTTPS over HTTP?
+A) Encrypts web traffic to provide confidentiality and integrity
+B) Adds bandwidth
+C) Slows down connections
+D) Enables caching
+
+120. What is the main function of the “route” command in Linux?
+A) Show and manipulate the IP routing table
+B) Reset passwords
+C) Start the firewall
+D) Create log files
+
+121. Which type of malware is hidden in seemingly legitimate software?
+A) Trojan horse
+B) Logic bomb
+C) Keylogger
+D) Rootkit
+
+122. What does a vulnerability scanner do?
+A) Identify potential security weaknesses for remediation
+B) Cracks WiFi
+C) Encrypts logs
+D) Monitors CPU usage
+
+123. What is whaling?
+A) Phishing attack targeted at executives and high-value targets
+B) ARP poisoning
+C) Worm propagation
+D) Buffer overflow via HTTP
+
+124. What is a SYN flood attack?
+A) Floods a server with SYN requests to exhaust resources
+B) Sends many FIN packets
+C) Spoofs DNS
+D) Brute-forces SQL logins
+
+125. Why should pentesters use a VPN?
+A) Encrypt traffic, hide source IP, and maintain privacy during testing
+B) Increase attack speed
+C) Steal credentials
+D) Generate hashes
